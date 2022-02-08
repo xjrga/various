@@ -1,0 +1,35 @@
+*Quick results using k-means clustering on fats and oils*
+
+//Type SFA MUFA ALA LA   
+
+Cluster #1
+                grapeseed   [10.5, 14.3, 0.0, 74.7]
+       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
+
+Cluster #2
+                   canola    [7.4, 63.3, 9.1, 18.6]
+
+Cluster #3
+                 flaxseed   [9.0, 18.4, 53.0, 13.0]
+                 hempseed    [7.0, 9.0, 22.0, 54.0]
+
+Cluster #4
+                  coconut     [82.5, 6.3, 0.0, 0.0]
+                     palm    [49.3, 37.0, 0.2, 9.1]
+
+Cluster #5
+               avocado_02   [11.6, 70.6, 1.0, 12.5]
+               avocado_02   [11.6, 70.6, 1.0, 12.5]
+                    olive    [13.8, 73.0, 0.7, 9.8]
+     high_oleic_safflower    [7.5, 75.2, 0.0, 12.8]
+             sunflower_70     [9.9, 83.7, 0.2, 3.6]
+
+Cluster #6
+               brazil_nut   [24.8, 32.7, 0.1, 41.9]
+                     corn   [12.9, 27.6, 1.0, 58.0]
+               cottonseed   [25.9, 17.8, 1.0, 54.0]
+                   peanut   [20.3, 48.1, 0.0, 31.4]
+                   sesame   [14.2, 39.7, 0.3, 41.3]
+                  soybean   [15.6, 22.8, 7.0, 51.0]
+                   walnut   [9.1, 22.8, 10.4, 52.9]
+             sunflower_60   [10.1, 45.4, 0.2, 39.8]
