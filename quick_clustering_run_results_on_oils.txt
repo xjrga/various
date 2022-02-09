@@ -1,5 +1,7 @@
 *Started clustering trial*
 
+//Type SFA MUFA ALA LA 
+
 Size: 1
 Score: 314.6763310658023
 
