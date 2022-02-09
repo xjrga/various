@@ -23,6 +23,8 @@ public class Fats_and_oils_clustering_trial_Test {
     public void test_01() throws Exception {
         List<DoublePoint> data = new ArrayList<>();
         Map<String, String> map = new HashMap();
+        StringBuilder sb00 = new StringBuilder();
+        Formatter formatter00 = new Formatter(sb00);
         int numTrials = 100;
         //Type SFA MUFA ALA LA        
         final DoublePoint avocado = new DoublePoint(new double[]{11.6, 70.6, 1, 12.5});
@@ -82,7 +84,8 @@ public class Fats_and_oils_clustering_trial_Test {
         map.put(sunflower_standard.toString(), "sunflower_standard");
         map.put(sunflower_60.toString(), "sunflower 60");
         map.put(sunflower_70.toString(), "sunflower 70");
-
+        formatter00.format("%1$9s %2$25s", "Clusters", "Score");
+        sb00.append("\n");
         System.out.println("*Started clustering trial*");
         System.out.println("");
         for (int i = 1; i < 19; i++) {
@@ -94,24 +97,30 @@ public class Fats_and_oils_clustering_trial_Test {
             double score = clusterVar.score(results);
             System.out.println("Score: " + score);
             System.out.println("");
+            formatter00.format("%1$9s %2$25s", results.size(), score);
+            sb00.append("\n");
             int j = 1;
             for (CentroidCluster<DoublePoint> result : results) {
-                StringBuilder sb = new StringBuilder();
-                Formatter formatter = new Formatter(sb);
+                StringBuilder sb01 = new StringBuilder();
+                Formatter formatter01 = new Formatter(sb01);
                 DoublePoint centroid = (DoublePoint) result.getCenter();
                 //System.out.println(centroid.toString());
-                sb.append("Cluster: " + j);
+                sb01.append("Cluster: " + j);
                 j = j + 1;
-                sb.append("\n");
+                sb01.append("\n");
                 List<DoublePoint> cluster_points = result.getPoints();
                 for (DoublePoint point : cluster_points) {
-                    formatter.format("%1$25s %2$25s", map.get(point.toString()), point.toString());
-                    sb.append("\n");
+                    formatter01.format("%1$25s %2$25s", map.get(point.toString()), point.toString());
+                    sb01.append("\n");
                 }
-                sb.append("\n");
-                System.out.println(sb.toString());
+                sb01.append("\n");
+                System.out.println(sb01.toString());
             }
         }
         System.out.println("*Finished clustering trial*");
+        System.out.println("");
+        System.out.println(sb00.toString());
     }
 }
+
+//Plot sum of variances vs the number of clusters

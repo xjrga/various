@@ -1,7 +1,3 @@
-*Results using k-means clustering on fats and oils*
-
-//Type SFA MUFA ALA LA   
-
 *Started clustering trial*
 
 Size: 1
@@ -79,24 +75,23 @@ Cluster: 1
 
 
 Cluster: 2
-                  coconut     [82.5, 6.3, 0.0, 0.0]
-                     palm    [49.3, 37.0, 0.2, 9.1]
-
-
-Cluster: 3
                  flaxseed   [9.0, 18.4, 53.0, 13.0]
                  hempseed    [7.0, 9.0, 22.0, 54.0]
 
 
+Cluster: 3
+                  coconut     [82.5, 6.3, 0.0, 0.0]
+                     palm    [49.3, 37.0, 0.2, 9.1]
+
+
 Size: 4
-Score: 96.06537198298042
+Score: 81.29180871912523
 
 Cluster: 1
                brazil nut   [24.8, 32.7, 0.1, 41.9]
                      corn   [12.9, 27.6, 1.0, 58.0]
                cottonseed   [25.9, 17.8, 1.0, 54.0]
                 grapeseed   [10.5, 14.3, 0.0, 74.7]
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
                    peanut   [20.3, 48.1, 0.0, 31.4]
                    sesame   [14.2, 39.7, 0.3, 41.3]
                   soybean   [15.6, 22.8, 7.0, 51.0]
@@ -106,28 +101,31 @@ Cluster: 1
 
 
 Cluster: 2
-                  coconut     [82.5, 6.3, 0.0, 0.0]
-                     palm    [49.3, 37.0, 0.2, 9.1]
-
-
-Cluster: 3
-                 flaxseed   [9.0, 18.4, 53.0, 13.0]
-
-
-Cluster: 4
                   avocado   [11.6, 70.6, 1.0, 12.5]
                    canola    [7.4, 63.3, 9.1, 18.6]
                     olive    [13.8, 73.0, 0.7, 9.8]
      high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
              sunflower 70     [9.9, 83.7, 0.2, 3.6]
+
+
+Cluster: 3
+                 flaxseed   [9.0, 18.4, 53.0, 13.0]
+                 hempseed    [7.0, 9.0, 22.0, 54.0]
+
+
+Cluster: 4
+                  coconut     [82.5, 6.3, 0.0, 0.0]
+                     palm    [49.3, 37.0, 0.2, 9.1]
 
 
 Size: 5
 Score: 62.04830190268963
 
 Cluster: 1
-                  coconut     [82.5, 6.3, 0.0, 0.0]
-                     palm    [49.3, 37.0, 0.2, 9.1]
+               brazil nut   [24.8, 32.7, 0.1, 41.9]
+                   peanut   [20.3, 48.1, 0.0, 31.4]
+                   sesame   [14.2, 39.7, 0.3, 41.3]
+             sunflower 60   [10.1, 45.4, 0.2, 39.8]
 
 
 Cluster: 2
@@ -139,13 +137,15 @@ Cluster: 2
 
 
 Cluster: 3
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
-                   peanut   [20.3, 48.1, 0.0, 31.4]
-                   sesame   [14.2, 39.7, 0.3, 41.3]
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
+                 flaxseed   [9.0, 18.4, 53.0, 13.0]
 
 
 Cluster: 4
+                  coconut     [82.5, 6.3, 0.0, 0.0]
+                     palm    [49.3, 37.0, 0.2, 9.1]
+
+
+Cluster: 5
                      corn   [12.9, 27.6, 1.0, 58.0]
                cottonseed   [25.9, 17.8, 1.0, 54.0]
                 grapeseed   [10.5, 14.3, 0.0, 74.7]
@@ -153,10 +153,6 @@ Cluster: 4
                   soybean   [15.6, 22.8, 7.0, 51.0]
                    walnut   [9.1, 22.8, 10.4, 52.9]
        sunflower_standard   [10.3, 19.5, 0.0, 65.7]
-
-
-Cluster: 5
-                 flaxseed   [9.0, 18.4, 53.0, 13.0]
 
 
 Size: 6
@@ -173,6 +169,13 @@ Cluster: 2
 
 
 Cluster: 3
+               brazil nut   [24.8, 32.7, 0.1, 41.9]
+                   peanut   [20.3, 48.1, 0.0, 31.4]
+                   sesame   [14.2, 39.7, 0.3, 41.3]
+             sunflower 60   [10.1, 45.4, 0.2, 39.8]
+
+
+Cluster: 4
                      corn   [12.9, 27.6, 1.0, 58.0]
                cottonseed   [25.9, 17.8, 1.0, 54.0]
                 grapeseed   [10.5, 14.3, 0.0, 74.7]
@@ -182,55 +185,20 @@ Cluster: 3
        sunflower_standard   [10.3, 19.5, 0.0, 65.7]
 
 
-Cluster: 4
-                  avocado   [11.6, 70.6, 1.0, 12.5]
-                   canola    [7.4, 63.3, 9.1, 18.6]
-
-
 Cluster: 5
                   coconut     [82.5, 6.3, 0.0, 0.0]
                      palm    [49.3, 37.0, 0.2, 9.1]
 
 
 Cluster: 6
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
-                   peanut   [20.3, 48.1, 0.0, 31.4]
-                   sesame   [14.2, 39.7, 0.3, 41.3]
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
+                  avocado   [11.6, 70.6, 1.0, 12.5]
+                   canola    [7.4, 63.3, 9.1, 18.6]
 
 
 Size: 7
-Score: 31.158957174839212
+Score: 25.944048419203597
 
 Cluster: 1
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
-                   peanut   [20.3, 48.1, 0.0, 31.4]
-                   sesame   [14.2, 39.7, 0.3, 41.3]
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
-
-
-Cluster: 2
-                  avocado   [11.6, 70.6, 1.0, 12.5]
-                    olive    [13.8, 73.0, 0.7, 9.8]
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
-
-
-Cluster: 3
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
-                   walnut   [9.1, 22.8, 10.4, 52.9]
-
-
-Cluster: 4
-                  coconut     [82.5, 6.3, 0.0, 0.0]
-                     palm    [49.3, 37.0, 0.2, 9.1]
-
-
-Cluster: 5
-                   canola    [7.4, 63.3, 9.1, 18.6]
-
-
-Cluster: 6
                      corn   [12.9, 27.6, 1.0, 58.0]
                cottonseed   [25.9, 17.8, 1.0, 54.0]
                 grapeseed   [10.5, 14.3, 0.0, 74.7]
@@ -238,42 +206,67 @@ Cluster: 6
        sunflower_standard   [10.3, 19.5, 0.0, 65.7]
 
 
-Cluster: 7
+Cluster: 2
+                  coconut     [82.5, 6.3, 0.0, 0.0]
+                     palm    [49.3, 37.0, 0.2, 9.1]
+
+
+Cluster: 3
+                  avocado   [11.6, 70.6, 1.0, 12.5]
+                   canola    [7.4, 63.3, 9.1, 18.6]
+
+
+Cluster: 4
                  flaxseed   [9.0, 18.4, 53.0, 13.0]
+
+
+Cluster: 5
+                 hempseed    [7.0, 9.0, 22.0, 54.0]
+                   walnut   [9.1, 22.8, 10.4, 52.9]
+
+
+Cluster: 6
+               brazil nut   [24.8, 32.7, 0.1, 41.9]
+                   peanut   [20.3, 48.1, 0.0, 31.4]
+                   sesame   [14.2, 39.7, 0.3, 41.3]
+             sunflower 60   [10.1, 45.4, 0.2, 39.8]
+
+
+Cluster: 7
+                    olive    [13.8, 73.0, 0.7, 9.8]
+     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
+             sunflower 70     [9.9, 83.7, 0.2, 3.6]
 
 
 Size: 8
-Score: 24.925018183548993
+Score: 18.024346125582216
 
 Cluster: 1
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
-                   peanut   [20.3, 48.1, 0.0, 31.4]
-                   sesame   [14.2, 39.7, 0.3, 41.3]
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
+                   canola    [7.4, 63.3, 9.1, 18.6]
 
 
 Cluster: 2
-                     corn   [12.9, 27.6, 1.0, 58.0]
-               cottonseed   [25.9, 17.8, 1.0, 54.0]
                 grapeseed   [10.5, 14.3, 0.0, 74.7]
-                  soybean   [15.6, 22.8, 7.0, 51.0]
-                   walnut   [9.1, 22.8, 10.4, 52.9]
        sunflower_standard   [10.3, 19.5, 0.0, 65.7]
 
 
 Cluster: 3
+                  avocado   [11.6, 70.6, 1.0, 12.5]
+                    olive    [13.8, 73.0, 0.7, 9.8]
+     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
+             sunflower 70     [9.9, 83.7, 0.2, 3.6]
+
+
+Cluster: 4
                   coconut     [82.5, 6.3, 0.0, 0.0]
                      palm    [49.3, 37.0, 0.2, 9.1]
 
 
-Cluster: 4
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
-
-
 Cluster: 5
-                  avocado   [11.6, 70.6, 1.0, 12.5]
-                    olive    [13.8, 73.0, 0.7, 9.8]
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
+               brazil nut   [24.8, 32.7, 0.1, 41.9]
+                     corn   [12.9, 27.6, 1.0, 58.0]
+               cottonseed   [25.9, 17.8, 1.0, 54.0]
+                  soybean   [15.6, 22.8, 7.0, 51.0]
 
 
 Cluster: 6
@@ -282,14 +275,17 @@ Cluster: 6
 
 Cluster: 7
                  hempseed    [7.0, 9.0, 22.0, 54.0]
+                   walnut   [9.1, 22.8, 10.4, 52.9]
 
 
 Cluster: 8
-                   canola    [7.4, 63.3, 9.1, 18.6]
+                   peanut   [20.3, 48.1, 0.0, 31.4]
+                   sesame   [14.2, 39.7, 0.3, 41.3]
+             sunflower 60   [10.1, 45.4, 0.2, 39.8]
 
 
 Size: 9
-Score: 12.8094373699466
+Score: 13.010458484300774
 
 Cluster: 1
                 grapeseed   [10.5, 14.3, 0.0, 74.7]
@@ -298,52 +294,52 @@ Cluster: 1
 
 Cluster: 2
                   avocado   [11.6, 70.6, 1.0, 12.5]
-                   canola    [7.4, 63.3, 9.1, 18.6]
-
-
-Cluster: 3
-                   peanut   [20.3, 48.1, 0.0, 31.4]
-                   sesame   [14.2, 39.7, 0.3, 41.3]
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
-
-
-Cluster: 4
-                  coconut     [82.5, 6.3, 0.0, 0.0]
-
-
-Cluster: 5
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
-                   walnut   [9.1, 22.8, 10.4, 52.9]
-
-
-Cluster: 6
-                     palm    [49.3, 37.0, 0.2, 9.1]
-
-
-Cluster: 7
                     olive    [13.8, 73.0, 0.7, 9.8]
      high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
              sunflower 70     [9.9, 83.7, 0.2, 3.6]
 
 
+Cluster: 3
+                  coconut     [82.5, 6.3, 0.0, 0.0]
+
+
+Cluster: 4
+                 flaxseed   [9.0, 18.4, 53.0, 13.0]
+
+
+Cluster: 5
+                 hempseed    [7.0, 9.0, 22.0, 54.0]
+
+
+Cluster: 6
+               cottonseed   [25.9, 17.8, 1.0, 54.0]
+
+
+Cluster: 7
+                   canola    [7.4, 63.3, 9.1, 18.6]
+                   peanut   [20.3, 48.1, 0.0, 31.4]
+
+
 Cluster: 8
                brazil nut   [24.8, 32.7, 0.1, 41.9]
                      corn   [12.9, 27.6, 1.0, 58.0]
-               cottonseed   [25.9, 17.8, 1.0, 54.0]
+                   sesame   [14.2, 39.7, 0.3, 41.3]
                   soybean   [15.6, 22.8, 7.0, 51.0]
+                   walnut   [9.1, 22.8, 10.4, 52.9]
+             sunflower 60   [10.1, 45.4, 0.2, 39.8]
 
 
 Cluster: 9
-                 flaxseed   [9.0, 18.4, 53.0, 13.0]
+                     palm    [49.3, 37.0, 0.2, 9.1]
 
 
 Size: 10
 Score: 7.812277590301725
 
 Cluster: 1
-                    olive    [13.8, 73.0, 0.7, 9.8]
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
+                   peanut   [20.3, 48.1, 0.0, 31.4]
+                   sesame   [14.2, 39.7, 0.3, 41.3]
+             sunflower 60   [10.1, 45.4, 0.2, 39.8]
 
 
 Cluster: 2
@@ -352,7 +348,7 @@ Cluster: 2
 
 
 Cluster: 3
-                     palm    [49.3, 37.0, 0.2, 9.1]
+                  coconut     [82.5, 6.3, 0.0, 0.0]
 
 
 Cluster: 4
@@ -360,11 +356,15 @@ Cluster: 4
 
 
 Cluster: 5
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
+                    olive    [13.8, 73.0, 0.7, 9.8]
+     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
+             sunflower 70     [9.9, 83.7, 0.2, 3.6]
 
 
 Cluster: 6
-                  coconut     [82.5, 6.3, 0.0, 0.0]
+                     corn   [12.9, 27.6, 1.0, 58.0]
+                  soybean   [15.6, 22.8, 7.0, 51.0]
+                   walnut   [9.1, 22.8, 10.4, 52.9]
 
 
 Cluster: 7
@@ -373,37 +373,32 @@ Cluster: 7
 
 
 Cluster: 8
-                   peanut   [20.3, 48.1, 0.0, 31.4]
-                   sesame   [14.2, 39.7, 0.3, 41.3]
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
-
-
-Cluster: 9
                brazil nut   [24.8, 32.7, 0.1, 41.9]
                cottonseed   [25.9, 17.8, 1.0, 54.0]
 
 
+Cluster: 9
+                 hempseed    [7.0, 9.0, 22.0, 54.0]
+
+
 Cluster: 10
-                     corn   [12.9, 27.6, 1.0, 58.0]
-                  soybean   [15.6, 22.8, 7.0, 51.0]
-                   walnut   [9.1, 22.8, 10.4, 52.9]
+                     palm    [49.3, 37.0, 0.2, 9.1]
 
 
 Size: 11
-Score: 3.4461797679651966
+Score: 4.20256968304752
 
 Cluster: 1
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
                    sesame   [14.2, 39.7, 0.3, 41.3]
+             sunflower 60   [10.1, 45.4, 0.2, 39.8]
 
 
 Cluster: 2
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
+                  coconut     [82.5, 6.3, 0.0, 0.0]
 
 
 Cluster: 3
-                  coconut     [82.5, 6.3, 0.0, 0.0]
+                 hempseed    [7.0, 9.0, 22.0, 54.0]
 
 
 Cluster: 4
@@ -412,53 +407,55 @@ Cluster: 4
 
 
 Cluster: 5
-                     corn   [12.9, 27.6, 1.0, 58.0]
-               cottonseed   [25.9, 17.8, 1.0, 54.0]
-                  soybean   [15.6, 22.8, 7.0, 51.0]
-
-
-Cluster: 6
-                     palm    [49.3, 37.0, 0.2, 9.1]
-
-
-Cluster: 7
                  flaxseed   [9.0, 18.4, 53.0, 13.0]
 
 
+Cluster: 6
+                    olive    [13.8, 73.0, 0.7, 9.8]
+     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
+             sunflower 70     [9.9, 83.7, 0.2, 3.6]
+
+
+Cluster: 7
+               cottonseed   [25.9, 17.8, 1.0, 54.0]
+
+
 Cluster: 8
+               brazil nut   [24.8, 32.7, 0.1, 41.9]
                    peanut   [20.3, 48.1, 0.0, 31.4]
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
 
 
 Cluster: 9
                   avocado   [11.6, 70.6, 1.0, 12.5]
-                    olive    [13.8, 73.0, 0.7, 9.8]
-
-
-Cluster: 10
                    canola    [7.4, 63.3, 9.1, 18.6]
 
 
-Cluster: 11
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
+Cluster: 10
+                     corn   [12.9, 27.6, 1.0, 58.0]
+                  soybean   [15.6, 22.8, 7.0, 51.0]
                    walnut   [9.1, 22.8, 10.4, 52.9]
+
+
+Cluster: 11
+                     palm    [49.3, 37.0, 0.2, 9.1]
 
 
 Size: 12
-Score: 2.508750922881262
+Score: 0.7569802928607755
 
 Cluster: 1
-                   peanut   [20.3, 48.1, 0.0, 31.4]
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
+                     corn   [12.9, 27.6, 1.0, 58.0]
+               cottonseed   [25.9, 17.8, 1.0, 54.0]
 
 
 Cluster: 2
-                  coconut     [82.5, 6.3, 0.0, 0.0]
+                  avocado   [11.6, 70.6, 1.0, 12.5]
+                    olive    [13.8, 73.0, 0.7, 9.8]
+     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
 
 
 Cluster: 3
-                grapeseed   [10.5, 14.3, 0.0, 74.7]
-       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
+                 flaxseed   [9.0, 18.4, 53.0, 13.0]
 
 
 Cluster: 4
@@ -466,55 +463,55 @@ Cluster: 4
 
 
 Cluster: 5
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
+                  coconut     [82.5, 6.3, 0.0, 0.0]
 
 
 Cluster: 6
-                 flaxseed   [9.0, 18.4, 53.0, 13.0]
+                     palm    [49.3, 37.0, 0.2, 9.1]
 
 
 Cluster: 7
-                     corn   [12.9, 27.6, 1.0, 58.0]
+                   sesame   [14.2, 39.7, 0.3, 41.3]
+             sunflower 60   [10.1, 45.4, 0.2, 39.8]
+
+
+Cluster: 8
                   soybean   [15.6, 22.8, 7.0, 51.0]
                    walnut   [9.1, 22.8, 10.4, 52.9]
 
 
-Cluster: 8
-                  avocado   [11.6, 70.6, 1.0, 12.5]
-                    olive    [13.8, 73.0, 0.7, 9.8]
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
-
-
 Cluster: 9
-                     palm    [49.3, 37.0, 0.2, 9.1]
+                grapeseed   [10.5, 14.3, 0.0, 74.7]
+       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
 
 
 Cluster: 10
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
+                 hempseed    [7.0, 9.0, 22.0, 54.0]
 
 
 Cluster: 11
-               cottonseed   [25.9, 17.8, 1.0, 54.0]
+             sunflower 70     [9.9, 83.7, 0.2, 3.6]
 
 
 Cluster: 12
                brazil nut   [24.8, 32.7, 0.1, 41.9]
-                   sesame   [14.2, 39.7, 0.3, 41.3]
+                   peanut   [20.3, 48.1, 0.0, 31.4]
 
 
 Size: 13
 Score: 0.7569802928607755
 
 Cluster: 1
-                     palm    [49.3, 37.0, 0.2, 9.1]
+                     corn   [12.9, 27.6, 1.0, 58.0]
+               cottonseed   [25.9, 17.8, 1.0, 54.0]
 
 
 Cluster: 2
-                   canola    [7.4, 63.3, 9.1, 18.6]
+                  coconut     [82.5, 6.3, 0.0, 0.0]
 
 
 Cluster: 3
-                   walnut   [9.1, 22.8, 10.4, 52.9]
+             sunflower 70     [9.9, 83.7, 0.2, 3.6]
 
 
 Cluster: 4
@@ -523,151 +520,149 @@ Cluster: 4
 
 Cluster: 5
                    peanut   [20.3, 48.1, 0.0, 31.4]
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
 
 
 Cluster: 6
-                  coconut     [82.5, 6.3, 0.0, 0.0]
+                   sesame   [14.2, 39.7, 0.3, 41.3]
+             sunflower 60   [10.1, 45.4, 0.2, 39.8]
 
 
 Cluster: 7
-                grapeseed   [10.5, 14.3, 0.0, 74.7]
-       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
+                  soybean   [15.6, 22.8, 7.0, 51.0]
+                   walnut   [9.1, 22.8, 10.4, 52.9]
 
 
 Cluster: 8
-                     corn   [12.9, 27.6, 1.0, 58.0]
+               brazil nut   [24.8, 32.7, 0.1, 41.9]
 
 
 Cluster: 9
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
+                   canola    [7.4, 63.3, 9.1, 18.6]
 
 
 Cluster: 10
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
-
-
-Cluster: 11
                   avocado   [11.6, 70.6, 1.0, 12.5]
                     olive    [13.8, 73.0, 0.7, 9.8]
      high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
 
 
+Cluster: 11
+                 hempseed    [7.0, 9.0, 22.0, 54.0]
+
+
 Cluster: 12
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
-                   sesame   [14.2, 39.7, 0.3, 41.3]
+                     palm    [49.3, 37.0, 0.2, 9.1]
 
 
 Cluster: 13
-               cottonseed   [25.9, 17.8, 1.0, 54.0]
-                  soybean   [15.6, 22.8, 7.0, 51.0]
+                grapeseed   [10.5, 14.3, 0.0, 74.7]
+       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
 
 
 Size: 14
-Score: 8.776077570583756E-30
+Score: 4.0429121392576855E-30
 
 Cluster: 1
-                   peanut   [20.3, 48.1, 0.0, 31.4]
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
-
-
-Cluster: 2
                  hempseed    [7.0, 9.0, 22.0, 54.0]
 
 
-Cluster: 3
-                     palm    [49.3, 37.0, 0.2, 9.1]
-
-
-Cluster: 4
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
-
-
-Cluster: 5
-                  soybean   [15.6, 22.8, 7.0, 51.0]
-                   walnut   [9.1, 22.8, 10.4, 52.9]
-
-
-Cluster: 6
-                grapeseed   [10.5, 14.3, 0.0, 74.7]
-       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
-
-
-Cluster: 7
-                  coconut     [82.5, 6.3, 0.0, 0.0]
-
-
-Cluster: 8
-                 flaxseed   [9.0, 18.4, 53.0, 13.0]
-
-
-Cluster: 9
-                   canola    [7.4, 63.3, 9.1, 18.6]
-
-
-Cluster: 10
-                     corn   [12.9, 27.6, 1.0, 58.0]
-
-
-Cluster: 11
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
-                   sesame   [14.2, 39.7, 0.3, 41.3]
-
-
-Cluster: 12
+Cluster: 2
                   avocado   [11.6, 70.6, 1.0, 12.5]
                     olive    [13.8, 73.0, 0.7, 9.8]
 
 
-Cluster: 13
+Cluster: 3
+                  coconut     [82.5, 6.3, 0.0, 0.0]
+
+
+Cluster: 4
+     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
+             sunflower 70     [9.9, 83.7, 0.2, 3.6]
+
+
+Cluster: 5
+                grapeseed   [10.5, 14.3, 0.0, 74.7]
+       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
+
+
+Cluster: 6
+               brazil nut   [24.8, 32.7, 0.1, 41.9]
+                   sesame   [14.2, 39.7, 0.3, 41.3]
+
+
+Cluster: 7
+                     palm    [49.3, 37.0, 0.2, 9.1]
+
+
+Cluster: 8
+                  soybean   [15.6, 22.8, 7.0, 51.0]
+                   walnut   [9.1, 22.8, 10.4, 52.9]
+
+
+Cluster: 9
+                 flaxseed   [9.0, 18.4, 53.0, 13.0]
+
+
+Cluster: 10
                cottonseed   [25.9, 17.8, 1.0, 54.0]
 
 
+Cluster: 11
+                   peanut   [20.3, 48.1, 0.0, 31.4]
+
+
+Cluster: 12
+                   canola    [7.4, 63.3, 9.1, 18.6]
+
+
+Cluster: 13
+             sunflower 60   [10.1, 45.4, 0.2, 39.8]
+
+
 Cluster: 14
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
+                     corn   [12.9, 27.6, 1.0, 58.0]
 
 
 Size: 15
-Score: 7.198355760141733E-30
+Score: 3.6484816866471796E-30
 
 Cluster: 1
+                   peanut   [20.3, 48.1, 0.0, 31.4]
+
+
+Cluster: 2
+                   canola    [7.4, 63.3, 9.1, 18.6]
+
+
+Cluster: 3
+                 flaxseed   [9.0, 18.4, 53.0, 13.0]
+
+
+Cluster: 4
+               cottonseed   [25.9, 17.8, 1.0, 54.0]
+
+
+Cluster: 5
+                grapeseed   [10.5, 14.3, 0.0, 74.7]
+       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
+
+
+Cluster: 6
+                  coconut     [82.5, 6.3, 0.0, 0.0]
+
+
+Cluster: 7
+                     palm    [49.3, 37.0, 0.2, 9.1]
+
+
+Cluster: 8
                brazil nut   [24.8, 32.7, 0.1, 41.9]
                    sesame   [14.2, 39.7, 0.3, 41.3]
 
 
-Cluster: 2
-                  soybean   [15.6, 22.8, 7.0, 51.0]
-                   walnut   [9.1, 22.8, 10.4, 52.9]
-
-
-Cluster: 3
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
-
-
-Cluster: 4
-                grapeseed   [10.5, 14.3, 0.0, 74.7]
-
-
-Cluster: 5
-                  coconut     [82.5, 6.3, 0.0, 0.0]
-
-
-Cluster: 6
-                 flaxseed   [9.0, 18.4, 53.0, 13.0]
-
-
-Cluster: 7
-                   peanut   [20.3, 48.1, 0.0, 31.4]
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
-
-
-Cluster: 8
-                  avocado   [11.6, 70.6, 1.0, 12.5]
-                    olive    [13.8, 73.0, 0.7, 9.8]
-
-
 Cluster: 9
-                     corn   [12.9, 27.6, 1.0, 58.0]
+     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
+             sunflower 70     [9.9, 83.7, 0.2, 3.6]
 
 
 Cluster: 10
@@ -675,132 +670,133 @@ Cluster: 10
 
 
 Cluster: 11
-                     palm    [49.3, 37.0, 0.2, 9.1]
+                  avocado   [11.6, 70.6, 1.0, 12.5]
+                    olive    [13.8, 73.0, 0.7, 9.8]
 
 
 Cluster: 12
-                   canola    [7.4, 63.3, 9.1, 18.6]
+                   walnut   [9.1, 22.8, 10.4, 52.9]
 
 
 Cluster: 13
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
+                     corn   [12.9, 27.6, 1.0, 58.0]
 
 
 Cluster: 14
-               cottonseed   [25.9, 17.8, 1.0, 54.0]
+             sunflower 60   [10.1, 45.4, 0.2, 39.8]
 
 
 Cluster: 15
-       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
+                  soybean   [15.6, 22.8, 7.0, 51.0]
 
 
 Size: 16
 Score: 4.930380657631324E-31
 
 Cluster: 1
-                  coconut     [82.5, 6.3, 0.0, 0.0]
+             sunflower 60   [10.1, 45.4, 0.2, 39.8]
 
 
 Cluster: 2
-                   sesame   [14.2, 39.7, 0.3, 41.3]
-
-
-Cluster: 3
-                grapeseed   [10.5, 14.3, 0.0, 74.7]
-
-
-Cluster: 4
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
-
-
-Cluster: 5
-                 flaxseed   [9.0, 18.4, 53.0, 13.0]
-
-
-Cluster: 6
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
-
-
-Cluster: 7
-                     palm    [49.3, 37.0, 0.2, 9.1]
-
-
-Cluster: 8
                cottonseed   [25.9, 17.8, 1.0, 54.0]
 
 
-Cluster: 9
+Cluster: 3
+                     palm    [49.3, 37.0, 0.2, 9.1]
+
+
+Cluster: 4
+                grapeseed   [10.5, 14.3, 0.0, 74.7]
+
+
+Cluster: 5
+             sunflower 70     [9.9, 83.7, 0.2, 3.6]
+
+
+Cluster: 6
+                 flaxseed   [9.0, 18.4, 53.0, 13.0]
+
+
+Cluster: 7
+                   canola    [7.4, 63.3, 9.1, 18.6]
+
+
+Cluster: 8
                  hempseed    [7.0, 9.0, 22.0, 54.0]
 
 
+Cluster: 9
+               brazil nut   [24.8, 32.7, 0.1, 41.9]
+
+
 Cluster: 10
-                   peanut   [20.3, 48.1, 0.0, 31.4]
+                  avocado   [11.6, 70.6, 1.0, 12.5]
+                    olive    [13.8, 73.0, 0.7, 9.8]
 
 
 Cluster: 11
+                  coconut     [82.5, 6.3, 0.0, 0.0]
+
+
+Cluster: 12
                   soybean   [15.6, 22.8, 7.0, 51.0]
                    walnut   [9.1, 22.8, 10.4, 52.9]
 
 
-Cluster: 12
-                   canola    [7.4, 63.3, 9.1, 18.6]
-
-
 Cluster: 13
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
+                   peanut   [20.3, 48.1, 0.0, 31.4]
 
 
 Cluster: 14
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
+                   sesame   [14.2, 39.7, 0.3, 41.3]
 
 
 Cluster: 15
-                     corn   [12.9, 27.6, 1.0, 58.0]
-       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
+     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
 
 
 Cluster: 16
-                  avocado   [11.6, 70.6, 1.0, 12.5]
-                    olive    [13.8, 73.0, 0.7, 9.8]
+                     corn   [12.9, 27.6, 1.0, 58.0]
+       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
 
 
 Size: 17
-Score: 4.930380657631324E-31
+Score: 3.944304526105059E-31
 
 Cluster: 1
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
+                 hempseed    [7.0, 9.0, 22.0, 54.0]
 
 
 Cluster: 2
-                  coconut     [82.5, 6.3, 0.0, 0.0]
-
-
-Cluster: 3
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
-
-
-Cluster: 4
                    sesame   [14.2, 39.7, 0.3, 41.3]
 
 
-Cluster: 5
-                   peanut   [20.3, 48.1, 0.0, 31.4]
-
-
-Cluster: 6
+Cluster: 3
                  flaxseed   [9.0, 18.4, 53.0, 13.0]
 
 
+Cluster: 4
+                  coconut     [82.5, 6.3, 0.0, 0.0]
+
+
+Cluster: 5
+                   canola    [7.4, 63.3, 9.1, 18.6]
+
+
+Cluster: 6
+                     palm    [49.3, 37.0, 0.2, 9.1]
+
+
 Cluster: 7
-       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
-
-
-Cluster: 8
                 grapeseed   [10.5, 14.3, 0.0, 74.7]
 
 
+Cluster: 8
+             sunflower 70     [9.9, 83.7, 0.2, 3.6]
+
+
 Cluster: 9
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
+     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
 
 
 Cluster: 10
@@ -809,75 +805,76 @@ Cluster: 10
 
 
 Cluster: 11
-                     palm    [49.3, 37.0, 0.2, 9.1]
-
-
-Cluster: 12
-                     corn   [12.9, 27.6, 1.0, 58.0]
-
-
-Cluster: 13
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
-
-
-Cluster: 14
-                   canola    [7.4, 63.3, 9.1, 18.6]
-
-
-Cluster: 15
                cottonseed   [25.9, 17.8, 1.0, 54.0]
 
 
+Cluster: 12
+               brazil nut   [24.8, 32.7, 0.1, 41.9]
+
+
+Cluster: 13
+                  avocado   [11.6, 70.6, 1.0, 12.5]
+
+
+Cluster: 14
+                   peanut   [20.3, 48.1, 0.0, 31.4]
+
+
+Cluster: 15
+                    olive    [13.8, 73.0, 0.7, 9.8]
+
+
 Cluster: 16
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
+                     corn   [12.9, 27.6, 1.0, 58.0]
+       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
 
 
 Cluster: 17
-                  avocado   [11.6, 70.6, 1.0, 12.5]
-                    olive    [13.8, 73.0, 0.7, 9.8]
+             sunflower 60   [10.1, 45.4, 0.2, 39.8]
 
 
 Size: 18
 Score: 9.860761315262648E-32
 
 Cluster: 1
-                   peanut   [20.3, 48.1, 0.0, 31.4]
-
-
-Cluster: 2
-                  coconut     [82.5, 6.3, 0.0, 0.0]
-
-
-Cluster: 3
-               cottonseed   [25.9, 17.8, 1.0, 54.0]
-
-
-Cluster: 4
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
-
-
-Cluster: 5
              sunflower 60   [10.1, 45.4, 0.2, 39.8]
 
 
-Cluster: 6
-                     palm    [49.3, 37.0, 0.2, 9.1]
-
-
-Cluster: 7
-                 flaxseed   [9.0, 18.4, 53.0, 13.0]
-
-
-Cluster: 8
+Cluster: 2
                      corn   [12.9, 27.6, 1.0, 58.0]
 
 
+Cluster: 3
+             sunflower 70     [9.9, 83.7, 0.2, 3.6]
+
+
+Cluster: 4
+                 flaxseed   [9.0, 18.4, 53.0, 13.0]
+
+
+Cluster: 5
+               cottonseed   [25.9, 17.8, 1.0, 54.0]
+
+
+Cluster: 6
+                  coconut     [82.5, 6.3, 0.0, 0.0]
+
+
+Cluster: 7
+                grapeseed   [10.5, 14.3, 0.0, 74.7]
+
+
+Cluster: 8
+                     palm    [49.3, 37.0, 0.2, 9.1]
+
+
 Cluster: 9
-                   walnut   [9.1, 22.8, 10.4, 52.9]
+                   peanut   [20.3, 48.1, 0.0, 31.4]
 
 
 Cluster: 10
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
+                  avocado   [11.6, 70.6, 1.0, 12.5]
+                    olive    [13.8, 73.0, 0.7, 9.8]
 
 
 Cluster: 11
@@ -889,24 +886,23 @@ Cluster: 12
 
 
 Cluster: 13
-                grapeseed   [10.5, 14.3, 0.0, 74.7]
+                 hempseed    [7.0, 9.0, 22.0, 54.0]
 
 
 Cluster: 14
-                  avocado   [11.6, 70.6, 1.0, 12.5]
-                    olive    [13.8, 73.0, 0.7, 9.8]
-
-
-Cluster: 15
        sunflower_standard   [10.3, 19.5, 0.0, 65.7]
 
 
+Cluster: 15
+                   walnut   [9.1, 22.8, 10.4, 52.9]
+
+
 Cluster: 16
-                  soybean   [15.6, 22.8, 7.0, 51.0]
+                   sesame   [14.2, 39.7, 0.3, 41.3]
 
 
 Cluster: 17
-                   sesame   [14.2, 39.7, 0.3, 41.3]
+                  soybean   [15.6, 22.8, 7.0, 51.0]
 
 
 Cluster: 18
@@ -914,3 +910,23 @@ Cluster: 18
 
 
 *Finished clustering trial*
+
+ Clusters                     Score
+        1         314.6763310658023
+        2        223.17189437733464
+        3        212.97486746204817
+        4         81.29180871912523
+        5         62.04830190268963
+        6         35.47015290285697
+        7        25.944048419203597
+        8        18.024346125582216
+        9        13.010458484300774
+       10         7.812277590301725
+       11          4.20256968304752
+       12        0.7569802928607755
+       13        0.7569802928607755
+       14    4.0429121392576855E-30
+       15    3.6484816866471796E-30
+       16     4.930380657631324E-31
+       17     3.944304526105059E-31
+       18     9.860761315262648E-32
