@@ -35,3 +35,6 @@ gdmap
 exfat-utils
 nitrogen
 iptables-persistent
+libglib2.0-bin
+suckless-tools
+conky
