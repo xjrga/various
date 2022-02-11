@@ -52,7 +52,7 @@ public class Fats_and_oils_clustering_trial_Test {
         final DoublePoint macadamia_oil = new DoublePoint(new double[]{19.0, 60.0, 1.0, 1.5});
         final DoublePoint cashew_oil = new DoublePoint(new double[]{18.74, 63.865, 0.7, 16.69});
         final DoublePoint almond_oil = new DoublePoint(new double[]{4.092, 33.076, 0.006, 12.945});
-        final DoublePoint hazelnut_oil = new DoublePoint(new double[]{4.511, 46.608, 8.463, 0.0});
+        final DoublePoint hazelnut_oil = new DoublePoint(new double[]{4.511, 46.608, 0.0, 8.463});
         data.add(avocado_oil);
         data.add(brazil_nut_oil);
         data.add(canola_oil);
