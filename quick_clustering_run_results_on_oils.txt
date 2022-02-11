@@ -1,934 +1,1060 @@
+//Type SFA MUFA ALA LA
+
 *Started clustering trial*
 
-//Type SFA MUFA ALA LA 
-
-Size: 1
-Score: 314.6763310658023
+Number of clusters: 1
+Score: 254.21848686924534
 
 Cluster: 1
-                  avocado   [11.6, 70.6, 1.0, 12.5]
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
-                   canola    [7.4, 63.3, 9.1, 18.6]
-                  coconut     [82.5, 6.3, 0.0, 0.0]
-                     corn   [12.9, 27.6, 1.0, 58.0]
-               cottonseed   [25.9, 17.8, 1.0, 54.0]
-                 flaxseed   [9.0, 18.4, 53.0, 13.0]
-                grapeseed   [10.5, 14.3, 0.0, 74.7]
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
-                    olive    [13.8, 73.0, 0.7, 9.8]
-                     palm    [49.3, 37.0, 0.2, 9.1]
-                   peanut   [20.3, 48.1, 0.0, 31.4]
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
-                   sesame   [14.2, 39.7, 0.3, 41.3]
-                  soybean   [15.6, 22.8, 7.0, 51.0]
-                   walnut   [9.1, 22.8, 10.4, 52.9]
-       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
+              avocado oil   [11.6, 70.6, 1.0, 12.5]
+           brazil nut oil   [24.8, 32.7, 0.1, 41.9]
+               canola oil    [7.4, 63.3, 9.1, 18.6]
+              coconut oil     [82.5, 6.3, 0.0, 0.0]
+                 corn oil   [12.9, 27.6, 1.0, 58.0]
+           cottonseed oil   [25.9, 17.8, 1.0, 54.0]
+             flaxseed oil   [9.0, 18.4, 53.0, 13.0]
+            grapeseed oil   [10.5, 14.3, 0.0, 74.7]
+                 hemp oil    [7.0, 9.0, 22.0, 54.0]
+                olive oil    [13.8, 73.0, 0.7, 9.8]
+                 palm oil    [49.3, 37.0, 0.2, 9.1]
+               peanut oil   [20.3, 48.1, 0.0, 31.4]
+            rice bran oil   [25.0, 38.4, 2.2, 34.4]
+ high-oleic safflower oil    [7.5, 75.2, 0.0, 12.8]
+               sesame oil   [14.2, 39.7, 0.3, 41.3]
+              soybean oil   [15.6, 22.8, 7.0, 51.0]
+               walnut oil   [9.1, 22.8, 10.4, 52.9]
+   sunflower standard oil   [10.3, 19.5, 0.0, 65.7]
+         sunflower 60 oil   [10.1, 45.4, 0.2, 39.8]
+         sunflower 70 oil     [9.9, 83.7, 0.2, 3.6]
+            pistachio nut [5.645, 24.534, 0.212, 13.125]
+                pecan oil [9.22, 53.38, 1.74, 34.24]
+               cashew oil [18.74, 63.865, 0.7, 16.69]
+            macadamia oil    [19.0, 60.0, 1.0, 1.5]
+               almond oil [4.092, 33.076, 0.006, 12.945]
+             hazelnut oil [4.511, 46.608, 8.463, 0.0]
 
 
-Size: 2
-Score: 223.17189437733464
+Number of clusters: 2
+Score: 173.22791784963798
 
 Cluster: 1
-                  avocado   [11.6, 70.6, 1.0, 12.5]
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
-                   canola    [7.4, 63.3, 9.1, 18.6]
-                     corn   [12.9, 27.6, 1.0, 58.0]
-               cottonseed   [25.9, 17.8, 1.0, 54.0]
-                 flaxseed   [9.0, 18.4, 53.0, 13.0]
-                grapeseed   [10.5, 14.3, 0.0, 74.7]
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
-                    olive    [13.8, 73.0, 0.7, 9.8]
-                     palm    [49.3, 37.0, 0.2, 9.1]
-                   peanut   [20.3, 48.1, 0.0, 31.4]
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
-                   sesame   [14.2, 39.7, 0.3, 41.3]
-                  soybean   [15.6, 22.8, 7.0, 51.0]
-                   walnut   [9.1, 22.8, 10.4, 52.9]
-       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
+              avocado oil   [11.6, 70.6, 1.0, 12.5]
+           brazil nut oil   [24.8, 32.7, 0.1, 41.9]
+               canola oil    [7.4, 63.3, 9.1, 18.6]
+                 corn oil   [12.9, 27.6, 1.0, 58.0]
+           cottonseed oil   [25.9, 17.8, 1.0, 54.0]
+             flaxseed oil   [9.0, 18.4, 53.0, 13.0]
+            grapeseed oil   [10.5, 14.3, 0.0, 74.7]
+                 hemp oil    [7.0, 9.0, 22.0, 54.0]
+                olive oil    [13.8, 73.0, 0.7, 9.8]
+                 palm oil    [49.3, 37.0, 0.2, 9.1]
+               peanut oil   [20.3, 48.1, 0.0, 31.4]
+            rice bran oil   [25.0, 38.4, 2.2, 34.4]
+ high-oleic safflower oil    [7.5, 75.2, 0.0, 12.8]
+               sesame oil   [14.2, 39.7, 0.3, 41.3]
+              soybean oil   [15.6, 22.8, 7.0, 51.0]
+               walnut oil   [9.1, 22.8, 10.4, 52.9]
+   sunflower standard oil   [10.3, 19.5, 0.0, 65.7]
+         sunflower 60 oil   [10.1, 45.4, 0.2, 39.8]
+         sunflower 70 oil     [9.9, 83.7, 0.2, 3.6]
+            pistachio nut [5.645, 24.534, 0.212, 13.125]
+                pecan oil [9.22, 53.38, 1.74, 34.24]
+               cashew oil [18.74, 63.865, 0.7, 16.69]
+            macadamia oil    [19.0, 60.0, 1.0, 1.5]
+               almond oil [4.092, 33.076, 0.006, 12.945]
+             hazelnut oil [4.511, 46.608, 8.463, 0.0]
 
 
 Cluster: 2
-                  coconut     [82.5, 6.3, 0.0, 0.0]
+              coconut oil     [82.5, 6.3, 0.0, 0.0]
 
 
-Size: 3
-Score: 212.97486746204817
+Number of clusters: 3
+Score: 152.8103466919894
 
 Cluster: 1
-                  avocado   [11.6, 70.6, 1.0, 12.5]
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
-                   canola    [7.4, 63.3, 9.1, 18.6]
-                     corn   [12.9, 27.6, 1.0, 58.0]
-               cottonseed   [25.9, 17.8, 1.0, 54.0]
-                grapeseed   [10.5, 14.3, 0.0, 74.7]
-                    olive    [13.8, 73.0, 0.7, 9.8]
-                   peanut   [20.3, 48.1, 0.0, 31.4]
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
-                   sesame   [14.2, 39.7, 0.3, 41.3]
-                  soybean   [15.6, 22.8, 7.0, 51.0]
-                   walnut   [9.1, 22.8, 10.4, 52.9]
-       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
+              coconut oil     [82.5, 6.3, 0.0, 0.0]
+                 palm oil    [49.3, 37.0, 0.2, 9.1]
 
 
 Cluster: 2
-                 flaxseed   [9.0, 18.4, 53.0, 13.0]
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
+              avocado oil   [11.6, 70.6, 1.0, 12.5]
+           brazil nut oil   [24.8, 32.7, 0.1, 41.9]
+               canola oil    [7.4, 63.3, 9.1, 18.6]
+                 corn oil   [12.9, 27.6, 1.0, 58.0]
+           cottonseed oil   [25.9, 17.8, 1.0, 54.0]
+            grapeseed oil   [10.5, 14.3, 0.0, 74.7]
+                olive oil    [13.8, 73.0, 0.7, 9.8]
+               peanut oil   [20.3, 48.1, 0.0, 31.4]
+            rice bran oil   [25.0, 38.4, 2.2, 34.4]
+ high-oleic safflower oil    [7.5, 75.2, 0.0, 12.8]
+               sesame oil   [14.2, 39.7, 0.3, 41.3]
+              soybean oil   [15.6, 22.8, 7.0, 51.0]
+               walnut oil   [9.1, 22.8, 10.4, 52.9]
+   sunflower standard oil   [10.3, 19.5, 0.0, 65.7]
+         sunflower 60 oil   [10.1, 45.4, 0.2, 39.8]
+         sunflower 70 oil     [9.9, 83.7, 0.2, 3.6]
+            pistachio nut [5.645, 24.534, 0.212, 13.125]
+                pecan oil [9.22, 53.38, 1.74, 34.24]
+               cashew oil [18.74, 63.865, 0.7, 16.69]
+            macadamia oil    [19.0, 60.0, 1.0, 1.5]
+               almond oil [4.092, 33.076, 0.006, 12.945]
+             hazelnut oil [4.511, 46.608, 8.463, 0.0]
 
 
 Cluster: 3
-                  coconut     [82.5, 6.3, 0.0, 0.0]
-                     palm    [49.3, 37.0, 0.2, 9.1]
+             flaxseed oil   [9.0, 18.4, 53.0, 13.0]
+                 hemp oil    [7.0, 9.0, 22.0, 54.0]
 
 
-Size: 4
-Score: 81.29180871912523
+Number of clusters: 4
+Score: 96.26900081867026
 
 Cluster: 1
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
-                     corn   [12.9, 27.6, 1.0, 58.0]
-               cottonseed   [25.9, 17.8, 1.0, 54.0]
-                grapeseed   [10.5, 14.3, 0.0, 74.7]
-                   peanut   [20.3, 48.1, 0.0, 31.4]
-                   sesame   [14.2, 39.7, 0.3, 41.3]
-                  soybean   [15.6, 22.8, 7.0, 51.0]
-                   walnut   [9.1, 22.8, 10.4, 52.9]
-       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
+           brazil nut oil   [24.8, 32.7, 0.1, 41.9]
+                 corn oil   [12.9, 27.6, 1.0, 58.0]
+           cottonseed oil   [25.9, 17.8, 1.0, 54.0]
+            grapeseed oil   [10.5, 14.3, 0.0, 74.7]
+                 hemp oil    [7.0, 9.0, 22.0, 54.0]
+               sesame oil   [14.2, 39.7, 0.3, 41.3]
+              soybean oil   [15.6, 22.8, 7.0, 51.0]
+               walnut oil   [9.1, 22.8, 10.4, 52.9]
+   sunflower standard oil   [10.3, 19.5, 0.0, 65.7]
 
 
 Cluster: 2
-                  avocado   [11.6, 70.6, 1.0, 12.5]
-                   canola    [7.4, 63.3, 9.1, 18.6]
-                    olive    [13.8, 73.0, 0.7, 9.8]
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
+             flaxseed oil   [9.0, 18.4, 53.0, 13.0]
 
 
 Cluster: 3
-                 flaxseed   [9.0, 18.4, 53.0, 13.0]
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
+              avocado oil   [11.6, 70.6, 1.0, 12.5]
+               canola oil    [7.4, 63.3, 9.1, 18.6]
+                olive oil    [13.8, 73.0, 0.7, 9.8]
+               peanut oil   [20.3, 48.1, 0.0, 31.4]
+            rice bran oil   [25.0, 38.4, 2.2, 34.4]
+ high-oleic safflower oil    [7.5, 75.2, 0.0, 12.8]
+         sunflower 60 oil   [10.1, 45.4, 0.2, 39.8]
+         sunflower 70 oil     [9.9, 83.7, 0.2, 3.6]
+            pistachio nut [5.645, 24.534, 0.212, 13.125]
+                pecan oil [9.22, 53.38, 1.74, 34.24]
+               cashew oil [18.74, 63.865, 0.7, 16.69]
+            macadamia oil    [19.0, 60.0, 1.0, 1.5]
+               almond oil [4.092, 33.076, 0.006, 12.945]
+             hazelnut oil [4.511, 46.608, 8.463, 0.0]
 
 
 Cluster: 4
-                  coconut     [82.5, 6.3, 0.0, 0.0]
-                     palm    [49.3, 37.0, 0.2, 9.1]
+              coconut oil     [82.5, 6.3, 0.0, 0.0]
+                 palm oil    [49.3, 37.0, 0.2, 9.1]
 
 
-Size: 5
-Score: 62.04830190268963
+Number of clusters: 5
+Score: 87.50643812021849
 
 Cluster: 1
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
-                   peanut   [20.3, 48.1, 0.0, 31.4]
-                   sesame   [14.2, 39.7, 0.3, 41.3]
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
+              avocado oil   [11.6, 70.6, 1.0, 12.5]
+               canola oil    [7.4, 63.3, 9.1, 18.6]
+                olive oil    [13.8, 73.0, 0.7, 9.8]
+ high-oleic safflower oil    [7.5, 75.2, 0.0, 12.8]
+         sunflower 70 oil     [9.9, 83.7, 0.2, 3.6]
+               cashew oil [18.74, 63.865, 0.7, 16.69]
+            macadamia oil    [19.0, 60.0, 1.0, 1.5]
 
 
 Cluster: 2
-                  avocado   [11.6, 70.6, 1.0, 12.5]
-                   canola    [7.4, 63.3, 9.1, 18.6]
-                    olive    [13.8, 73.0, 0.7, 9.8]
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
+           brazil nut oil   [24.8, 32.7, 0.1, 41.9]
+                 corn oil   [12.9, 27.6, 1.0, 58.0]
+           cottonseed oil   [25.9, 17.8, 1.0, 54.0]
+            grapeseed oil   [10.5, 14.3, 0.0, 74.7]
+            rice bran oil   [25.0, 38.4, 2.2, 34.4]
+               sesame oil   [14.2, 39.7, 0.3, 41.3]
+              soybean oil   [15.6, 22.8, 7.0, 51.0]
+               walnut oil   [9.1, 22.8, 10.4, 52.9]
+   sunflower standard oil   [10.3, 19.5, 0.0, 65.7]
+         sunflower 60 oil   [10.1, 45.4, 0.2, 39.8]
 
 
 Cluster: 3
-                 flaxseed   [9.0, 18.4, 53.0, 13.0]
+              coconut oil     [82.5, 6.3, 0.0, 0.0]
+                 palm oil    [49.3, 37.0, 0.2, 9.1]
 
 
 Cluster: 4
-                  coconut     [82.5, 6.3, 0.0, 0.0]
-                     palm    [49.3, 37.0, 0.2, 9.1]
+             flaxseed oil   [9.0, 18.4, 53.0, 13.0]
+                 hemp oil    [7.0, 9.0, 22.0, 54.0]
 
 
 Cluster: 5
-                     corn   [12.9, 27.6, 1.0, 58.0]
-               cottonseed   [25.9, 17.8, 1.0, 54.0]
-                grapeseed   [10.5, 14.3, 0.0, 74.7]
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
-                  soybean   [15.6, 22.8, 7.0, 51.0]
-                   walnut   [9.1, 22.8, 10.4, 52.9]
-       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
+               peanut oil   [20.3, 48.1, 0.0, 31.4]
+            pistachio nut [5.645, 24.534, 0.212, 13.125]
+                pecan oil [9.22, 53.38, 1.74, 34.24]
+               almond oil [4.092, 33.076, 0.006, 12.945]
+             hazelnut oil [4.511, 46.608, 8.463, 0.0]
 
 
-Size: 6
-Score: 35.47015290285697
+Number of clusters: 6
+Score: 69.05614816554723
 
 Cluster: 1
-                 flaxseed   [9.0, 18.4, 53.0, 13.0]
+           brazil nut oil   [24.8, 32.7, 0.1, 41.9]
+               peanut oil   [20.3, 48.1, 0.0, 31.4]
+            rice bran oil   [25.0, 38.4, 2.2, 34.4]
+               sesame oil   [14.2, 39.7, 0.3, 41.3]
+         sunflower 60 oil   [10.1, 45.4, 0.2, 39.8]
+            pistachio nut [5.645, 24.534, 0.212, 13.125]
+                pecan oil [9.22, 53.38, 1.74, 34.24]
+               almond oil [4.092, 33.076, 0.006, 12.945]
 
 
 Cluster: 2
-                    olive    [13.8, 73.0, 0.7, 9.8]
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
+                 corn oil   [12.9, 27.6, 1.0, 58.0]
+           cottonseed oil   [25.9, 17.8, 1.0, 54.0]
+            grapeseed oil   [10.5, 14.3, 0.0, 74.7]
+                 hemp oil    [7.0, 9.0, 22.0, 54.0]
+              soybean oil   [15.6, 22.8, 7.0, 51.0]
+               walnut oil   [9.1, 22.8, 10.4, 52.9]
+   sunflower standard oil   [10.3, 19.5, 0.0, 65.7]
 
 
 Cluster: 3
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
-                   peanut   [20.3, 48.1, 0.0, 31.4]
-                   sesame   [14.2, 39.7, 0.3, 41.3]
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
+              avocado oil   [11.6, 70.6, 1.0, 12.5]
+                olive oil    [13.8, 73.0, 0.7, 9.8]
+ high-oleic safflower oil    [7.5, 75.2, 0.0, 12.8]
+         sunflower 70 oil     [9.9, 83.7, 0.2, 3.6]
 
 
 Cluster: 4
-                     corn   [12.9, 27.6, 1.0, 58.0]
-               cottonseed   [25.9, 17.8, 1.0, 54.0]
-                grapeseed   [10.5, 14.3, 0.0, 74.7]
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
-                  soybean   [15.6, 22.8, 7.0, 51.0]
-                   walnut   [9.1, 22.8, 10.4, 52.9]
-       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
+             flaxseed oil   [9.0, 18.4, 53.0, 13.0]
 
 
 Cluster: 5
-                  coconut     [82.5, 6.3, 0.0, 0.0]
-                     palm    [49.3, 37.0, 0.2, 9.1]
+               canola oil    [7.4, 63.3, 9.1, 18.6]
+               cashew oil [18.74, 63.865, 0.7, 16.69]
+            macadamia oil    [19.0, 60.0, 1.0, 1.5]
+             hazelnut oil [4.511, 46.608, 8.463, 0.0]
 
 
 Cluster: 6
-                  avocado   [11.6, 70.6, 1.0, 12.5]
-                   canola    [7.4, 63.3, 9.1, 18.6]
+              coconut oil     [82.5, 6.3, 0.0, 0.0]
+                 palm oil    [49.3, 37.0, 0.2, 9.1]
 
 
-Size: 7
-Score: 25.944048419203597
+Number of clusters: 7
+Score: 48.01722711034745
 
 Cluster: 1
-                     corn   [12.9, 27.6, 1.0, 58.0]
-               cottonseed   [25.9, 17.8, 1.0, 54.0]
-                grapeseed   [10.5, 14.3, 0.0, 74.7]
-                  soybean   [15.6, 22.8, 7.0, 51.0]
-       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
+           brazil nut oil   [24.8, 32.7, 0.1, 41.9]
+               peanut oil   [20.3, 48.1, 0.0, 31.4]
+            rice bran oil   [25.0, 38.4, 2.2, 34.4]
+               sesame oil   [14.2, 39.7, 0.3, 41.3]
+         sunflower 60 oil   [10.1, 45.4, 0.2, 39.8]
+                pecan oil [9.22, 53.38, 1.74, 34.24]
 
 
 Cluster: 2
-                  coconut     [82.5, 6.3, 0.0, 0.0]
-                     palm    [49.3, 37.0, 0.2, 9.1]
+            pistachio nut [5.645, 24.534, 0.212, 13.125]
+               almond oil [4.092, 33.076, 0.006, 12.945]
 
 
 Cluster: 3
-                  avocado   [11.6, 70.6, 1.0, 12.5]
-                   canola    [7.4, 63.3, 9.1, 18.6]
+              avocado oil   [11.6, 70.6, 1.0, 12.5]
+                olive oil    [13.8, 73.0, 0.7, 9.8]
+ high-oleic safflower oil    [7.5, 75.2, 0.0, 12.8]
+         sunflower 70 oil     [9.9, 83.7, 0.2, 3.6]
 
 
 Cluster: 4
-                 flaxseed   [9.0, 18.4, 53.0, 13.0]
+               canola oil    [7.4, 63.3, 9.1, 18.6]
+               cashew oil [18.74, 63.865, 0.7, 16.69]
+            macadamia oil    [19.0, 60.0, 1.0, 1.5]
+             hazelnut oil [4.511, 46.608, 8.463, 0.0]
 
 
 Cluster: 5
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
-                   walnut   [9.1, 22.8, 10.4, 52.9]
+             flaxseed oil   [9.0, 18.4, 53.0, 13.0]
 
 
 Cluster: 6
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
-                   peanut   [20.3, 48.1, 0.0, 31.4]
-                   sesame   [14.2, 39.7, 0.3, 41.3]
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
+              coconut oil     [82.5, 6.3, 0.0, 0.0]
+                 palm oil    [49.3, 37.0, 0.2, 9.1]
 
 
 Cluster: 7
-                    olive    [13.8, 73.0, 0.7, 9.8]
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
+                 corn oil   [12.9, 27.6, 1.0, 58.0]
+           cottonseed oil   [25.9, 17.8, 1.0, 54.0]
+            grapeseed oil   [10.5, 14.3, 0.0, 74.7]
+                 hemp oil    [7.0, 9.0, 22.0, 54.0]
+              soybean oil   [15.6, 22.8, 7.0, 51.0]
+               walnut oil   [9.1, 22.8, 10.4, 52.9]
+   sunflower standard oil   [10.3, 19.5, 0.0, 65.7]
 
 
-Size: 8
-Score: 18.024346125582216
+Number of clusters: 8
+Score: 39.910892091010425
 
 Cluster: 1
-                   canola    [7.4, 63.3, 9.1, 18.6]
+           brazil nut oil   [24.8, 32.7, 0.1, 41.9]
+               peanut oil   [20.3, 48.1, 0.0, 31.4]
+            rice bran oil   [25.0, 38.4, 2.2, 34.4]
+               sesame oil   [14.2, 39.7, 0.3, 41.3]
+         sunflower 60 oil   [10.1, 45.4, 0.2, 39.8]
+                pecan oil [9.22, 53.38, 1.74, 34.24]
 
 
 Cluster: 2
-                grapeseed   [10.5, 14.3, 0.0, 74.7]
-       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
+              avocado oil   [11.6, 70.6, 1.0, 12.5]
+                olive oil    [13.8, 73.0, 0.7, 9.8]
+ high-oleic safflower oil    [7.5, 75.2, 0.0, 12.8]
+         sunflower 70 oil     [9.9, 83.7, 0.2, 3.6]
 
 
 Cluster: 3
-                  avocado   [11.6, 70.6, 1.0, 12.5]
-                    olive    [13.8, 73.0, 0.7, 9.8]
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
+             flaxseed oil   [9.0, 18.4, 53.0, 13.0]
 
 
 Cluster: 4
-                  coconut     [82.5, 6.3, 0.0, 0.0]
-                     palm    [49.3, 37.0, 0.2, 9.1]
+            macadamia oil    [19.0, 60.0, 1.0, 1.5]
+             hazelnut oil [4.511, 46.608, 8.463, 0.0]
 
 
 Cluster: 5
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
-                     corn   [12.9, 27.6, 1.0, 58.0]
-               cottonseed   [25.9, 17.8, 1.0, 54.0]
-                  soybean   [15.6, 22.8, 7.0, 51.0]
+              coconut oil     [82.5, 6.3, 0.0, 0.0]
+                 palm oil    [49.3, 37.0, 0.2, 9.1]
 
 
 Cluster: 6
-                 flaxseed   [9.0, 18.4, 53.0, 13.0]
+               canola oil    [7.4, 63.3, 9.1, 18.6]
+               cashew oil [18.74, 63.865, 0.7, 16.69]
 
 
 Cluster: 7
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
-                   walnut   [9.1, 22.8, 10.4, 52.9]
+                 corn oil   [12.9, 27.6, 1.0, 58.0]
+           cottonseed oil   [25.9, 17.8, 1.0, 54.0]
+            grapeseed oil   [10.5, 14.3, 0.0, 74.7]
+                 hemp oil    [7.0, 9.0, 22.0, 54.0]
+              soybean oil   [15.6, 22.8, 7.0, 51.0]
+               walnut oil   [9.1, 22.8, 10.4, 52.9]
+   sunflower standard oil   [10.3, 19.5, 0.0, 65.7]
 
 
 Cluster: 8
-                   peanut   [20.3, 48.1, 0.0, 31.4]
-                   sesame   [14.2, 39.7, 0.3, 41.3]
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
+            pistachio nut [5.645, 24.534, 0.212, 13.125]
+               almond oil [4.092, 33.076, 0.006, 12.945]
 
 
-Size: 9
-Score: 13.010458484300774
+Number of clusters: 9
+Score: 35.72093702406282
 
 Cluster: 1
-                grapeseed   [10.5, 14.3, 0.0, 74.7]
-       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
+            pistachio nut [5.645, 24.534, 0.212, 13.125]
+               almond oil [4.092, 33.076, 0.006, 12.945]
 
 
 Cluster: 2
-                  avocado   [11.6, 70.6, 1.0, 12.5]
-                    olive    [13.8, 73.0, 0.7, 9.8]
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
+                olive oil    [13.8, 73.0, 0.7, 9.8]
+ high-oleic safflower oil    [7.5, 75.2, 0.0, 12.8]
+         sunflower 70 oil     [9.9, 83.7, 0.2, 3.6]
 
 
 Cluster: 3
-                  coconut     [82.5, 6.3, 0.0, 0.0]
+                 corn oil   [12.9, 27.6, 1.0, 58.0]
+           cottonseed oil   [25.9, 17.8, 1.0, 54.0]
+            grapeseed oil   [10.5, 14.3, 0.0, 74.7]
+                 hemp oil    [7.0, 9.0, 22.0, 54.0]
+              soybean oil   [15.6, 22.8, 7.0, 51.0]
+               walnut oil   [9.1, 22.8, 10.4, 52.9]
+   sunflower standard oil   [10.3, 19.5, 0.0, 65.7]
 
 
 Cluster: 4
-                 flaxseed   [9.0, 18.4, 53.0, 13.0]
+              coconut oil     [82.5, 6.3, 0.0, 0.0]
 
 
 Cluster: 5
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
+             flaxseed oil   [9.0, 18.4, 53.0, 13.0]
 
 
 Cluster: 6
-               cottonseed   [25.9, 17.8, 1.0, 54.0]
+                 palm oil    [49.3, 37.0, 0.2, 9.1]
 
 
 Cluster: 7
-                   canola    [7.4, 63.3, 9.1, 18.6]
-                   peanut   [20.3, 48.1, 0.0, 31.4]
+           brazil nut oil   [24.8, 32.7, 0.1, 41.9]
+               peanut oil   [20.3, 48.1, 0.0, 31.4]
+            rice bran oil   [25.0, 38.4, 2.2, 34.4]
+               sesame oil   [14.2, 39.7, 0.3, 41.3]
+         sunflower 60 oil   [10.1, 45.4, 0.2, 39.8]
+                pecan oil [9.22, 53.38, 1.74, 34.24]
 
 
 Cluster: 8
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
-                     corn   [12.9, 27.6, 1.0, 58.0]
-                   sesame   [14.2, 39.7, 0.3, 41.3]
-                  soybean   [15.6, 22.8, 7.0, 51.0]
-                   walnut   [9.1, 22.8, 10.4, 52.9]
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
+              avocado oil   [11.6, 70.6, 1.0, 12.5]
+               canola oil    [7.4, 63.3, 9.1, 18.6]
+               cashew oil [18.74, 63.865, 0.7, 16.69]
 
 
 Cluster: 9
-                     palm    [49.3, 37.0, 0.2, 9.1]
+            macadamia oil    [19.0, 60.0, 1.0, 1.5]
+             hazelnut oil [4.511, 46.608, 8.463, 0.0]
 
 
-Size: 10
-Score: 7.812277590301725
+Number of clusters: 10
+Score: 32.48168953785019
 
 Cluster: 1
-                   peanut   [20.3, 48.1, 0.0, 31.4]
-                   sesame   [14.2, 39.7, 0.3, 41.3]
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
+              coconut oil     [82.5, 6.3, 0.0, 0.0]
 
 
 Cluster: 2
-                grapeseed   [10.5, 14.3, 0.0, 74.7]
-       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
+               cashew oil [18.74, 63.865, 0.7, 16.69]
+            macadamia oil    [19.0, 60.0, 1.0, 1.5]
 
 
 Cluster: 3
-                  coconut     [82.5, 6.3, 0.0, 0.0]
+                 corn oil   [12.9, 27.6, 1.0, 58.0]
+           cottonseed oil   [25.9, 17.8, 1.0, 54.0]
+            grapeseed oil   [10.5, 14.3, 0.0, 74.7]
+                 hemp oil    [7.0, 9.0, 22.0, 54.0]
+              soybean oil   [15.6, 22.8, 7.0, 51.0]
+               walnut oil   [9.1, 22.8, 10.4, 52.9]
+   sunflower standard oil   [10.3, 19.5, 0.0, 65.7]
 
 
 Cluster: 4
-                 flaxseed   [9.0, 18.4, 53.0, 13.0]
+               canola oil    [7.4, 63.3, 9.1, 18.6]
+             hazelnut oil [4.511, 46.608, 8.463, 0.0]
 
 
 Cluster: 5
-                    olive    [13.8, 73.0, 0.7, 9.8]
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
+           brazil nut oil   [24.8, 32.7, 0.1, 41.9]
+            rice bran oil   [25.0, 38.4, 2.2, 34.4]
+               sesame oil   [14.2, 39.7, 0.3, 41.3]
 
 
 Cluster: 6
-                     corn   [12.9, 27.6, 1.0, 58.0]
-                  soybean   [15.6, 22.8, 7.0, 51.0]
-                   walnut   [9.1, 22.8, 10.4, 52.9]
+            pistachio nut [5.645, 24.534, 0.212, 13.125]
+               almond oil [4.092, 33.076, 0.006, 12.945]
 
 
 Cluster: 7
-                  avocado   [11.6, 70.6, 1.0, 12.5]
-                   canola    [7.4, 63.3, 9.1, 18.6]
+              avocado oil   [11.6, 70.6, 1.0, 12.5]
+                olive oil    [13.8, 73.0, 0.7, 9.8]
+ high-oleic safflower oil    [7.5, 75.2, 0.0, 12.8]
+         sunflower 70 oil     [9.9, 83.7, 0.2, 3.6]
 
 
 Cluster: 8
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
-               cottonseed   [25.9, 17.8, 1.0, 54.0]
+               peanut oil   [20.3, 48.1, 0.0, 31.4]
+         sunflower 60 oil   [10.1, 45.4, 0.2, 39.8]
+                pecan oil [9.22, 53.38, 1.74, 34.24]
 
 
 Cluster: 9
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
+             flaxseed oil   [9.0, 18.4, 53.0, 13.0]
 
 
 Cluster: 10
-                     palm    [49.3, 37.0, 0.2, 9.1]
+                 palm oil    [49.3, 37.0, 0.2, 9.1]
 
 
-Size: 11
-Score: 4.20256968304752
+Number of clusters: 11
+Score: 24.238610829325776
 
 Cluster: 1
-                   sesame   [14.2, 39.7, 0.3, 41.3]
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
+            grapeseed oil   [10.5, 14.3, 0.0, 74.7]
+   sunflower standard oil   [10.3, 19.5, 0.0, 65.7]
 
 
 Cluster: 2
-                  coconut     [82.5, 6.3, 0.0, 0.0]
+             flaxseed oil   [9.0, 18.4, 53.0, 13.0]
 
 
 Cluster: 3
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
+              coconut oil     [82.5, 6.3, 0.0, 0.0]
 
 
 Cluster: 4
-                grapeseed   [10.5, 14.3, 0.0, 74.7]
-       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
+                olive oil    [13.8, 73.0, 0.7, 9.8]
+ high-oleic safflower oil    [7.5, 75.2, 0.0, 12.8]
+         sunflower 70 oil     [9.9, 83.7, 0.2, 3.6]
 
 
 Cluster: 5
-                 flaxseed   [9.0, 18.4, 53.0, 13.0]
+            pistachio nut [5.645, 24.534, 0.212, 13.125]
+               almond oil [4.092, 33.076, 0.006, 12.945]
 
 
 Cluster: 6
-                    olive    [13.8, 73.0, 0.7, 9.8]
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
+                 hemp oil    [7.0, 9.0, 22.0, 54.0]
 
 
 Cluster: 7
-               cottonseed   [25.9, 17.8, 1.0, 54.0]
+                 palm oil    [49.3, 37.0, 0.2, 9.1]
 
 
 Cluster: 8
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
-                   peanut   [20.3, 48.1, 0.0, 31.4]
+                 corn oil   [12.9, 27.6, 1.0, 58.0]
+           cottonseed oil   [25.9, 17.8, 1.0, 54.0]
+              soybean oil   [15.6, 22.8, 7.0, 51.0]
+               walnut oil   [9.1, 22.8, 10.4, 52.9]
 
 
 Cluster: 9
-                  avocado   [11.6, 70.6, 1.0, 12.5]
-                   canola    [7.4, 63.3, 9.1, 18.6]
+            macadamia oil    [19.0, 60.0, 1.0, 1.5]
+             hazelnut oil [4.511, 46.608, 8.463, 0.0]
 
 
 Cluster: 10
-                     corn   [12.9, 27.6, 1.0, 58.0]
-                  soybean   [15.6, 22.8, 7.0, 51.0]
-                   walnut   [9.1, 22.8, 10.4, 52.9]
+              avocado oil   [11.6, 70.6, 1.0, 12.5]
+               canola oil    [7.4, 63.3, 9.1, 18.6]
+               cashew oil [18.74, 63.865, 0.7, 16.69]
 
 
 Cluster: 11
-                     palm    [49.3, 37.0, 0.2, 9.1]
+           brazil nut oil   [24.8, 32.7, 0.1, 41.9]
+               peanut oil   [20.3, 48.1, 0.0, 31.4]
+            rice bran oil   [25.0, 38.4, 2.2, 34.4]
+               sesame oil   [14.2, 39.7, 0.3, 41.3]
+         sunflower 60 oil   [10.1, 45.4, 0.2, 39.8]
+                pecan oil [9.22, 53.38, 1.74, 34.24]
 
 
-Size: 12
+Number of clusters: 12
+Score: 11.78480552477356
+
+Cluster: 1
+                 hemp oil    [7.0, 9.0, 22.0, 54.0]
+               walnut oil   [9.1, 22.8, 10.4, 52.9]
+
+
+Cluster: 2
+            macadamia oil    [19.0, 60.0, 1.0, 1.5]
+             hazelnut oil [4.511, 46.608, 8.463, 0.0]
+
+
+Cluster: 3
+            pistachio nut [5.645, 24.534, 0.212, 13.125]
+               almond oil [4.092, 33.076, 0.006, 12.945]
+
+
+Cluster: 4
+ high-oleic safflower oil    [7.5, 75.2, 0.0, 12.8]
+         sunflower 70 oil     [9.9, 83.7, 0.2, 3.6]
+
+
+Cluster: 5
+              coconut oil     [82.5, 6.3, 0.0, 0.0]
+
+
+Cluster: 6
+                 corn oil   [12.9, 27.6, 1.0, 58.0]
+           cottonseed oil   [25.9, 17.8, 1.0, 54.0]
+              soybean oil   [15.6, 22.8, 7.0, 51.0]
+
+
+Cluster: 7
+            grapeseed oil   [10.5, 14.3, 0.0, 74.7]
+   sunflower standard oil   [10.3, 19.5, 0.0, 65.7]
+
+
+Cluster: 8
+               peanut oil   [20.3, 48.1, 0.0, 31.4]
+         sunflower 60 oil   [10.1, 45.4, 0.2, 39.8]
+                pecan oil [9.22, 53.38, 1.74, 34.24]
+
+
+Cluster: 9
+                 palm oil    [49.3, 37.0, 0.2, 9.1]
+
+
+Cluster: 10
+             flaxseed oil   [9.0, 18.4, 53.0, 13.0]
+
+
+Cluster: 11
+              avocado oil   [11.6, 70.6, 1.0, 12.5]
+               canola oil    [7.4, 63.3, 9.1, 18.6]
+                olive oil    [13.8, 73.0, 0.7, 9.8]
+               cashew oil [18.74, 63.865, 0.7, 16.69]
+
+
+Cluster: 12
+           brazil nut oil   [24.8, 32.7, 0.1, 41.9]
+            rice bran oil   [25.0, 38.4, 2.2, 34.4]
+               sesame oil   [14.2, 39.7, 0.3, 41.3]
+
+
+Number of clusters: 13
+Score: 11.525605245779632
+
+Cluster: 1
+            pistachio nut [5.645, 24.534, 0.212, 13.125]
+               almond oil [4.092, 33.076, 0.006, 12.945]
+
+
+Cluster: 2
+           brazil nut oil   [24.8, 32.7, 0.1, 41.9]
+            rice bran oil   [25.0, 38.4, 2.2, 34.4]
+               sesame oil   [14.2, 39.7, 0.3, 41.3]
+
+
+Cluster: 3
+                 hemp oil    [7.0, 9.0, 22.0, 54.0]
+               walnut oil   [9.1, 22.8, 10.4, 52.9]
+
+
+Cluster: 4
+                 palm oil    [49.3, 37.0, 0.2, 9.1]
+
+
+Cluster: 5
+              coconut oil     [82.5, 6.3, 0.0, 0.0]
+
+
+Cluster: 6
+              avocado oil   [11.6, 70.6, 1.0, 12.5]
+                olive oil    [13.8, 73.0, 0.7, 9.8]
+               cashew oil [18.74, 63.865, 0.7, 16.69]
+            macadamia oil    [19.0, 60.0, 1.0, 1.5]
+
+
+Cluster: 7
+             flaxseed oil   [9.0, 18.4, 53.0, 13.0]
+
+
+Cluster: 8
+               canola oil    [7.4, 63.3, 9.1, 18.6]
+
+
+Cluster: 9
+               peanut oil   [20.3, 48.1, 0.0, 31.4]
+         sunflower 60 oil   [10.1, 45.4, 0.2, 39.8]
+                pecan oil [9.22, 53.38, 1.74, 34.24]
+
+
+Cluster: 10
+             hazelnut oil [4.511, 46.608, 8.463, 0.0]
+
+
+Cluster: 11
+            grapeseed oil   [10.5, 14.3, 0.0, 74.7]
+   sunflower standard oil   [10.3, 19.5, 0.0, 65.7]
+
+
+Cluster: 12
+ high-oleic safflower oil    [7.5, 75.2, 0.0, 12.8]
+         sunflower 70 oil     [9.9, 83.7, 0.2, 3.6]
+
+
+Cluster: 13
+                 corn oil   [12.9, 27.6, 1.0, 58.0]
+           cottonseed oil   [25.9, 17.8, 1.0, 54.0]
+              soybean oil   [15.6, 22.8, 7.0, 51.0]
+
+
+Number of clusters: 14
+Score: 7.505910702526139
+
+Cluster: 1
+               cashew oil [18.74, 63.865, 0.7, 16.69]
+            macadamia oil    [19.0, 60.0, 1.0, 1.5]
+
+
+Cluster: 2
+                 hemp oil    [7.0, 9.0, 22.0, 54.0]
+               walnut oil   [9.1, 22.8, 10.4, 52.9]
+
+
+Cluster: 3
+              coconut oil     [82.5, 6.3, 0.0, 0.0]
+
+
+Cluster: 4
+            pistachio nut [5.645, 24.534, 0.212, 13.125]
+               almond oil [4.092, 33.076, 0.006, 12.945]
+
+
+Cluster: 5
+           brazil nut oil   [24.8, 32.7, 0.1, 41.9]
+                 corn oil   [12.9, 27.6, 1.0, 58.0]
+           cottonseed oil   [25.9, 17.8, 1.0, 54.0]
+              soybean oil   [15.6, 22.8, 7.0, 51.0]
+
+
+Cluster: 6
+             flaxseed oil   [9.0, 18.4, 53.0, 13.0]
+
+
+Cluster: 7
+            grapeseed oil   [10.5, 14.3, 0.0, 74.7]
+   sunflower standard oil   [10.3, 19.5, 0.0, 65.7]
+
+
+Cluster: 8
+                 palm oil    [49.3, 37.0, 0.2, 9.1]
+
+
+Cluster: 9
+               sesame oil   [14.2, 39.7, 0.3, 41.3]
+         sunflower 60 oil   [10.1, 45.4, 0.2, 39.8]
+
+
+Cluster: 10
+              avocado oil   [11.6, 70.6, 1.0, 12.5]
+                olive oil    [13.8, 73.0, 0.7, 9.8]
+ high-oleic safflower oil    [7.5, 75.2, 0.0, 12.8]
+
+
+Cluster: 11
+               canola oil    [7.4, 63.3, 9.1, 18.6]
+             hazelnut oil [4.511, 46.608, 8.463, 0.0]
+
+
+Cluster: 12
+         sunflower 70 oil     [9.9, 83.7, 0.2, 3.6]
+
+
+Cluster: 13
+                pecan oil [9.22, 53.38, 1.74, 34.24]
+
+
+Cluster: 14
+               peanut oil   [20.3, 48.1, 0.0, 31.4]
+            rice bran oil   [25.0, 38.4, 2.2, 34.4]
+
+
+Number of clusters: 15
+Score: 1.7517706300204867
+
+Cluster: 1
+                 corn oil   [12.9, 27.6, 1.0, 58.0]
+              soybean oil   [15.6, 22.8, 7.0, 51.0]
+               walnut oil   [9.1, 22.8, 10.4, 52.9]
+
+
+Cluster: 2
+            macadamia oil    [19.0, 60.0, 1.0, 1.5]
+             hazelnut oil [4.511, 46.608, 8.463, 0.0]
+
+
+Cluster: 3
+               peanut oil   [20.3, 48.1, 0.0, 31.4]
+                pecan oil [9.22, 53.38, 1.74, 34.24]
+
+
+Cluster: 4
+             flaxseed oil   [9.0, 18.4, 53.0, 13.0]
+
+
+Cluster: 5
+              coconut oil     [82.5, 6.3, 0.0, 0.0]
+
+
+Cluster: 6
+                 hemp oil    [7.0, 9.0, 22.0, 54.0]
+
+
+Cluster: 7
+                 palm oil    [49.3, 37.0, 0.2, 9.1]
+
+
+Cluster: 8
+               sesame oil   [14.2, 39.7, 0.3, 41.3]
+         sunflower 60 oil   [10.1, 45.4, 0.2, 39.8]
+
+
+Cluster: 9
+            pistachio nut [5.645, 24.534, 0.212, 13.125]
+               almond oil [4.092, 33.076, 0.006, 12.945]
+
+
+Cluster: 10
+ high-oleic safflower oil    [7.5, 75.2, 0.0, 12.8]
+         sunflower 70 oil     [9.9, 83.7, 0.2, 3.6]
+
+
+Cluster: 11
+            grapeseed oil   [10.5, 14.3, 0.0, 74.7]
+   sunflower standard oil   [10.3, 19.5, 0.0, 65.7]
+
+
+Cluster: 12
+           cottonseed oil   [25.9, 17.8, 1.0, 54.0]
+
+
+Cluster: 13
+               canola oil    [7.4, 63.3, 9.1, 18.6]
+               cashew oil [18.74, 63.865, 0.7, 16.69]
+
+
+Cluster: 14
+           brazil nut oil   [24.8, 32.7, 0.1, 41.9]
+            rice bran oil   [25.0, 38.4, 2.2, 34.4]
+
+
+Cluster: 15
+              avocado oil   [11.6, 70.6, 1.0, 12.5]
+                olive oil    [13.8, 73.0, 0.7, 9.8]
+
+
+Number of clusters: 16
 Score: 0.7569802928607755
 
 Cluster: 1
-                     corn   [12.9, 27.6, 1.0, 58.0]
-               cottonseed   [25.9, 17.8, 1.0, 54.0]
+           brazil nut oil   [24.8, 32.7, 0.1, 41.9]
+            rice bran oil   [25.0, 38.4, 2.2, 34.4]
 
 
 Cluster: 2
-                  avocado   [11.6, 70.6, 1.0, 12.5]
-                    olive    [13.8, 73.0, 0.7, 9.8]
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
+             flaxseed oil   [9.0, 18.4, 53.0, 13.0]
 
 
 Cluster: 3
-                 flaxseed   [9.0, 18.4, 53.0, 13.0]
+             hazelnut oil [4.511, 46.608, 8.463, 0.0]
 
 
 Cluster: 4
-                   canola    [7.4, 63.3, 9.1, 18.6]
+              soybean oil   [15.6, 22.8, 7.0, 51.0]
+               walnut oil   [9.1, 22.8, 10.4, 52.9]
 
 
 Cluster: 5
-                  coconut     [82.5, 6.3, 0.0, 0.0]
+                 hemp oil    [7.0, 9.0, 22.0, 54.0]
 
 
 Cluster: 6
-                     palm    [49.3, 37.0, 0.2, 9.1]
+              coconut oil     [82.5, 6.3, 0.0, 0.0]
 
 
 Cluster: 7
-                   sesame   [14.2, 39.7, 0.3, 41.3]
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
+         sunflower 70 oil     [9.9, 83.7, 0.2, 3.6]
 
 
 Cluster: 8
-                  soybean   [15.6, 22.8, 7.0, 51.0]
-                   walnut   [9.1, 22.8, 10.4, 52.9]
+            pistachio nut [5.645, 24.534, 0.212, 13.125]
+               almond oil [4.092, 33.076, 0.006, 12.945]
 
 
 Cluster: 9
-                grapeseed   [10.5, 14.3, 0.0, 74.7]
-       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
+               peanut oil   [20.3, 48.1, 0.0, 31.4]
+                pecan oil [9.22, 53.38, 1.74, 34.24]
 
 
 Cluster: 10
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
+               canola oil    [7.4, 63.3, 9.1, 18.6]
+               cashew oil [18.74, 63.865, 0.7, 16.69]
 
 
 Cluster: 11
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
+                 palm oil    [49.3, 37.0, 0.2, 9.1]
 
 
 Cluster: 12
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
-                   peanut   [20.3, 48.1, 0.0, 31.4]
+                 corn oil   [12.9, 27.6, 1.0, 58.0]
+           cottonseed oil   [25.9, 17.8, 1.0, 54.0]
 
 
-Size: 13
+Cluster: 13
+            macadamia oil    [19.0, 60.0, 1.0, 1.5]
+
+
+Cluster: 14
+               sesame oil   [14.2, 39.7, 0.3, 41.3]
+         sunflower 60 oil   [10.1, 45.4, 0.2, 39.8]
+
+
+Cluster: 15
+              avocado oil   [11.6, 70.6, 1.0, 12.5]
+                olive oil    [13.8, 73.0, 0.7, 9.8]
+ high-oleic safflower oil    [7.5, 75.2, 0.0, 12.8]
+
+
+Cluster: 16
+            grapeseed oil   [10.5, 14.3, 0.0, 74.7]
+   sunflower standard oil   [10.3, 19.5, 0.0, 65.7]
+
+
+Number of clusters: 17
 Score: 0.7569802928607755
 
 Cluster: 1
-                     corn   [12.9, 27.6, 1.0, 58.0]
-               cottonseed   [25.9, 17.8, 1.0, 54.0]
+                 hemp oil    [7.0, 9.0, 22.0, 54.0]
 
 
 Cluster: 2
-                  coconut     [82.5, 6.3, 0.0, 0.0]
+               cashew oil [18.74, 63.865, 0.7, 16.69]
+            macadamia oil    [19.0, 60.0, 1.0, 1.5]
 
 
 Cluster: 3
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
+           brazil nut oil   [24.8, 32.7, 0.1, 41.9]
+            rice bran oil   [25.0, 38.4, 2.2, 34.4]
 
 
 Cluster: 4
-                 flaxseed   [9.0, 18.4, 53.0, 13.0]
+              coconut oil     [82.5, 6.3, 0.0, 0.0]
 
 
 Cluster: 5
-                   peanut   [20.3, 48.1, 0.0, 31.4]
+         sunflower 70 oil     [9.9, 83.7, 0.2, 3.6]
 
 
 Cluster: 6
-                   sesame   [14.2, 39.7, 0.3, 41.3]
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
+            pistachio nut [5.645, 24.534, 0.212, 13.125]
+               almond oil [4.092, 33.076, 0.006, 12.945]
 
 
 Cluster: 7
-                  soybean   [15.6, 22.8, 7.0, 51.0]
-                   walnut   [9.1, 22.8, 10.4, 52.9]
+             hazelnut oil [4.511, 46.608, 8.463, 0.0]
 
 
 Cluster: 8
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
+            grapeseed oil   [10.5, 14.3, 0.0, 74.7]
+   sunflower standard oil   [10.3, 19.5, 0.0, 65.7]
 
 
 Cluster: 9
-                   canola    [7.4, 63.3, 9.1, 18.6]
+             flaxseed oil   [9.0, 18.4, 53.0, 13.0]
 
 
 Cluster: 10
-                  avocado   [11.6, 70.6, 1.0, 12.5]
-                    olive    [13.8, 73.0, 0.7, 9.8]
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
+                 palm oil    [49.3, 37.0, 0.2, 9.1]
 
 
 Cluster: 11
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
+               sesame oil   [14.2, 39.7, 0.3, 41.3]
+         sunflower 60 oil   [10.1, 45.4, 0.2, 39.8]
 
 
 Cluster: 12
-                     palm    [49.3, 37.0, 0.2, 9.1]
+               canola oil    [7.4, 63.3, 9.1, 18.6]
 
 
 Cluster: 13
-                grapeseed   [10.5, 14.3, 0.0, 74.7]
-       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
-
-
-Size: 14
-Score: 4.0429121392576855E-30
-
-Cluster: 1
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
-
-
-Cluster: 2
-                  avocado   [11.6, 70.6, 1.0, 12.5]
-                    olive    [13.8, 73.0, 0.7, 9.8]
-
-
-Cluster: 3
-                  coconut     [82.5, 6.3, 0.0, 0.0]
-
-
-Cluster: 4
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
-
-
-Cluster: 5
-                grapeseed   [10.5, 14.3, 0.0, 74.7]
-       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
-
-
-Cluster: 6
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
-                   sesame   [14.2, 39.7, 0.3, 41.3]
-
-
-Cluster: 7
-                     palm    [49.3, 37.0, 0.2, 9.1]
-
-
-Cluster: 8
-                  soybean   [15.6, 22.8, 7.0, 51.0]
-                   walnut   [9.1, 22.8, 10.4, 52.9]
-
-
-Cluster: 9
-                 flaxseed   [9.0, 18.4, 53.0, 13.0]
-
-
-Cluster: 10
-               cottonseed   [25.9, 17.8, 1.0, 54.0]
-
-
-Cluster: 11
-                   peanut   [20.3, 48.1, 0.0, 31.4]
-
-
-Cluster: 12
-                   canola    [7.4, 63.3, 9.1, 18.6]
-
-
-Cluster: 13
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
+              avocado oil   [11.6, 70.6, 1.0, 12.5]
+                olive oil    [13.8, 73.0, 0.7, 9.8]
+ high-oleic safflower oil    [7.5, 75.2, 0.0, 12.8]
 
 
 Cluster: 14
-                     corn   [12.9, 27.6, 1.0, 58.0]
-
-
-Size: 15
-Score: 3.6484816866471796E-30
-
-Cluster: 1
-                   peanut   [20.3, 48.1, 0.0, 31.4]
-
-
-Cluster: 2
-                   canola    [7.4, 63.3, 9.1, 18.6]
-
-
-Cluster: 3
-                 flaxseed   [9.0, 18.4, 53.0, 13.0]
-
-
-Cluster: 4
-               cottonseed   [25.9, 17.8, 1.0, 54.0]
-
-
-Cluster: 5
-                grapeseed   [10.5, 14.3, 0.0, 74.7]
-       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
-
-
-Cluster: 6
-                  coconut     [82.5, 6.3, 0.0, 0.0]
-
-
-Cluster: 7
-                     palm    [49.3, 37.0, 0.2, 9.1]
-
-
-Cluster: 8
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
-                   sesame   [14.2, 39.7, 0.3, 41.3]
-
-
-Cluster: 9
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
-
-
-Cluster: 10
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
-
-
-Cluster: 11
-                  avocado   [11.6, 70.6, 1.0, 12.5]
-                    olive    [13.8, 73.0, 0.7, 9.8]
-
-
-Cluster: 12
-                   walnut   [9.1, 22.8, 10.4, 52.9]
-
-
-Cluster: 13
-                     corn   [12.9, 27.6, 1.0, 58.0]
-
-
-Cluster: 14
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
+               peanut oil   [20.3, 48.1, 0.0, 31.4]
 
 
 Cluster: 15
-                  soybean   [15.6, 22.8, 7.0, 51.0]
-
-
-Size: 16
-Score: 4.930380657631324E-31
-
-Cluster: 1
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
-
-
-Cluster: 2
-               cottonseed   [25.9, 17.8, 1.0, 54.0]
-
-
-Cluster: 3
-                     palm    [49.3, 37.0, 0.2, 9.1]
-
-
-Cluster: 4
-                grapeseed   [10.5, 14.3, 0.0, 74.7]
-
-
-Cluster: 5
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
-
-
-Cluster: 6
-                 flaxseed   [9.0, 18.4, 53.0, 13.0]
-
-
-Cluster: 7
-                   canola    [7.4, 63.3, 9.1, 18.6]
-
-
-Cluster: 8
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
-
-
-Cluster: 9
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
-
-
-Cluster: 10
-                  avocado   [11.6, 70.6, 1.0, 12.5]
-                    olive    [13.8, 73.0, 0.7, 9.8]
-
-
-Cluster: 11
-                  coconut     [82.5, 6.3, 0.0, 0.0]
-
-
-Cluster: 12
-                  soybean   [15.6, 22.8, 7.0, 51.0]
-                   walnut   [9.1, 22.8, 10.4, 52.9]
-
-
-Cluster: 13
-                   peanut   [20.3, 48.1, 0.0, 31.4]
-
-
-Cluster: 14
-                   sesame   [14.2, 39.7, 0.3, 41.3]
-
-
-Cluster: 15
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
+                pecan oil [9.22, 53.38, 1.74, 34.24]
 
 
 Cluster: 16
-                     corn   [12.9, 27.6, 1.0, 58.0]
-       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
-
-
-Size: 17
-Score: 3.944304526105059E-31
-
-Cluster: 1
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
-
-
-Cluster: 2
-                   sesame   [14.2, 39.7, 0.3, 41.3]
-
-
-Cluster: 3
-                 flaxseed   [9.0, 18.4, 53.0, 13.0]
-
-
-Cluster: 4
-                  coconut     [82.5, 6.3, 0.0, 0.0]
-
-
-Cluster: 5
-                   canola    [7.4, 63.3, 9.1, 18.6]
-
-
-Cluster: 6
-                     palm    [49.3, 37.0, 0.2, 9.1]
-
-
-Cluster: 7
-                grapeseed   [10.5, 14.3, 0.0, 74.7]
-
-
-Cluster: 8
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
-
-
-Cluster: 9
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
-
-
-Cluster: 10
-                  soybean   [15.6, 22.8, 7.0, 51.0]
-                   walnut   [9.1, 22.8, 10.4, 52.9]
-
-
-Cluster: 11
-               cottonseed   [25.9, 17.8, 1.0, 54.0]
-
-
-Cluster: 12
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
-
-
-Cluster: 13
-                  avocado   [11.6, 70.6, 1.0, 12.5]
-
-
-Cluster: 14
-                   peanut   [20.3, 48.1, 0.0, 31.4]
-
-
-Cluster: 15
-                    olive    [13.8, 73.0, 0.7, 9.8]
-
-
-Cluster: 16
-                     corn   [12.9, 27.6, 1.0, 58.0]
-       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
+                 corn oil   [12.9, 27.6, 1.0, 58.0]
+           cottonseed oil   [25.9, 17.8, 1.0, 54.0]
 
 
 Cluster: 17
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
+              soybean oil   [15.6, 22.8, 7.0, 51.0]
+               walnut oil   [9.1, 22.8, 10.4, 52.9]
 
 
-Size: 18
-Score: 9.860761315262648E-32
+Number of clusters: 18
+Score: 2.1397852054119945E-29
 
 Cluster: 1
-             sunflower 60   [10.1, 45.4, 0.2, 39.8]
+         sunflower 70 oil     [9.9, 83.7, 0.2, 3.6]
 
 
 Cluster: 2
-                     corn   [12.9, 27.6, 1.0, 58.0]
+             flaxseed oil   [9.0, 18.4, 53.0, 13.0]
 
 
 Cluster: 3
-             sunflower 70     [9.9, 83.7, 0.2, 3.6]
+                 corn oil   [12.9, 27.6, 1.0, 58.0]
+           cottonseed oil   [25.9, 17.8, 1.0, 54.0]
 
 
 Cluster: 4
-                 flaxseed   [9.0, 18.4, 53.0, 13.0]
+            pistachio nut [5.645, 24.534, 0.212, 13.125]
+               almond oil [4.092, 33.076, 0.006, 12.945]
 
 
 Cluster: 5
-               cottonseed   [25.9, 17.8, 1.0, 54.0]
+              coconut oil     [82.5, 6.3, 0.0, 0.0]
 
 
 Cluster: 6
-                  coconut     [82.5, 6.3, 0.0, 0.0]
+               canola oil    [7.4, 63.3, 9.1, 18.6]
+               cashew oil [18.74, 63.865, 0.7, 16.69]
 
 
 Cluster: 7
-                grapeseed   [10.5, 14.3, 0.0, 74.7]
+ high-oleic safflower oil    [7.5, 75.2, 0.0, 12.8]
 
 
 Cluster: 8
-                     palm    [49.3, 37.0, 0.2, 9.1]
+                 hemp oil    [7.0, 9.0, 22.0, 54.0]
 
 
 Cluster: 9
-                   peanut   [20.3, 48.1, 0.0, 31.4]
+            grapeseed oil   [10.5, 14.3, 0.0, 74.7]
 
 
 Cluster: 10
-                  avocado   [11.6, 70.6, 1.0, 12.5]
-                    olive    [13.8, 73.0, 0.7, 9.8]
+            macadamia oil    [19.0, 60.0, 1.0, 1.5]
+             hazelnut oil [4.511, 46.608, 8.463, 0.0]
 
 
 Cluster: 11
-                   canola    [7.4, 63.3, 9.1, 18.6]
+              avocado oil   [11.6, 70.6, 1.0, 12.5]
+                olive oil    [13.8, 73.0, 0.7, 9.8]
 
 
 Cluster: 12
-               brazil nut   [24.8, 32.7, 0.1, 41.9]
+               sesame oil   [14.2, 39.7, 0.3, 41.3]
 
 
 Cluster: 13
-                 hempseed    [7.0, 9.0, 22.0, 54.0]
+               peanut oil   [20.3, 48.1, 0.0, 31.4]
+                pecan oil [9.22, 53.38, 1.74, 34.24]
 
 
 Cluster: 14
-       sunflower_standard   [10.3, 19.5, 0.0, 65.7]
+   sunflower standard oil   [10.3, 19.5, 0.0, 65.7]
 
 
 Cluster: 15
-                   walnut   [9.1, 22.8, 10.4, 52.9]
+           brazil nut oil   [24.8, 32.7, 0.1, 41.9]
+            rice bran oil   [25.0, 38.4, 2.2, 34.4]
 
 
 Cluster: 16
-                   sesame   [14.2, 39.7, 0.3, 41.3]
+         sunflower 60 oil   [10.1, 45.4, 0.2, 39.8]
 
 
 Cluster: 17
-                  soybean   [15.6, 22.8, 7.0, 51.0]
+              soybean oil   [15.6, 22.8, 7.0, 51.0]
+               walnut oil   [9.1, 22.8, 10.4, 52.9]
 
 
 Cluster: 18
-     high-oleic safflower    [7.5, 75.2, 0.0, 12.8]
+                 palm oil    [49.3, 37.0, 0.2, 9.1]
 
 
 *Finished clustering trial*
 
  Clusters                     Score
-        1         314.6763310658023
-        2        223.17189437733464
-        3        212.97486746204817
-        4         81.29180871912523
-        5         62.04830190268963
-        6         35.47015290285697
-        7        25.944048419203597
-        8        18.024346125582216
-        9        13.010458484300774
-       10         7.812277590301725
-       11          4.20256968304752
-       12        0.7569802928607755
-       13        0.7569802928607755
-       14    4.0429121392576855E-30
-       15    3.6484816866471796E-30
-       16     4.930380657631324E-31
-       17     3.944304526105059E-31
-       18     9.860761315262648E-32
+        1        254.21848686924534
+        2        173.22791784963798
+        3         152.8103466919894
+        4         96.26900081867026
+        5         87.50643812021849
+        6         69.05614816554723
+        7         48.01722711034745
+        8        39.910892091010425
+        9         35.72093702406282
+       10         32.48168953785019
+       11        24.238610829325776
+       12         11.78480552477356
+       13        11.525605245779632
+       14         7.505910702526139
+       15        1.7517706300204867
+       16        0.7569802928607755
+       17        0.7569802928607755
+       18    2.1397852054119945E-29
