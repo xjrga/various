@@ -9,5 +9,5 @@ oils = data.frame(
 row.names(oils) <- c("avocado oil",  "brazil nut oil",  "canola oil",  "coconut oil",  "corn oil",  "cottonseed oil",  "flaxseed oil",  "grapeseed oil",  "hemp oil",  "olive oil",  "palm oil",  "peanut oil",  "rice bran oil",  "high-oleic safflower oil",  "sesame oil",  "soybean oil",  "walnut oil",  "sunflower standard oil",  "sunflower 60 oil",  "sunflower 70 oil",  "pistachio nut",  "pecan oil",  "macadamia oil",  "cashew oil",  "almond oil",  "hazelnut oil")
 distance_matrix <- dist(oils, method = 'euclidean')
 hc <- hclust(distance_matrix, method = "average")
-plot(hc,main = "Edible Oils Hierarchical Cluster",hang = -1, cex = 0.8,xlab = "Lipid Profile",ylab = "")
+plot(hc,main = "Edible Oils Hierarchical Cluster",hang = -1, cex = 0.8,xlab = "Lipid Profile",ylab = "",sub="", yaxt="n")
 rect.hclust(hc, k = 7, border = "orange")
