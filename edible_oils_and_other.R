@@ -1,5 +1,6 @@
 library(dplyr)
 library(ggdendro)
+library(ggplot2)
 
 oils = data.frame(
   #These saturated fatty acids have the most potent hypercholesterolemic effects
@@ -22,4 +23,4 @@ oils = data.frame(
 row.names(oils) <- c("Animal fat, bacon grease","Egg, yolk, raw, fresh","Margarine-like, butter-margarine blend, 80% fat, stick, without salt","Oil, almond","Oil, avocado","Oil, canola","Oil, coconut","Oil, corn, industrial and retail, all purpose salad or cooking","Oil, cottonseed, salad or cooking","Oil, flaxseed, cold pressed","Oil, grapeseed","Oil, oat","Oil, olive, salad or cooking","Oil, palm","Oil, peanut, salad or cooking","Oil, safflower, salad or cooking, linoleic, (over 70%)","Oil, sesame, salad or cooking","Oil, soybean, salad or cooking","Oil, sunflower, high oleic (70% and over)","Oil, sunflower, linoleic, (approx. 65%)","Oil, walnut","Oil, wheat germ")
 distance_matrix <- dist(oils, method = 'euclidean')
 hc <- hclust(distance_matrix, method = "average")
-ggdendrogram(hc, rotate = TRUE, size = 4, theme_dendro = FALSE)+ labs(title = "Edible Oils and Other Hierachical Cluster")
+ggdendrogram(hc, rotate = TRUE, size = 4, theme_dendro = FALSE)+ labs(title = "Hierarchical Clustering Graph - Edible Oils and Other")
