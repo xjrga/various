@@ -1,6 +1,4 @@
-library(dplyr)
-library(ggdendro)
-library(ggplot2)
+library(cluster)
 
 oils = data.frame(
   #These saturated fatty acids have the most potent hypercholesterolemic effects
@@ -12,15 +10,12 @@ oils = data.frame(
   linolenic = c(0.99500,0.10300,1.12600,0.00000,0.95700,9.13700,0.01900,1.16100,0.20000,53.36800,0.10000,1.79000,0.76100,0.20000,0.00000,0.00000,0.30000,6.78900,0.19200,0.00000,10.40000,6.90000),
   #A higher monounsaturated diet is recommended
   mufa = c(44.87400,11.73800,31.83200,69.90000,70.55400,63.27600,6.33200,27.57600,17.80000,18.43800,16.10000,35.11000,72.96100,37.00000,46.20000,14.35500,39.70000,22.78300,83.68900,19.50000,22.80000,15.10000)
-  #There is recommended cholesterol intake
-  #cholesterol = c(95.00000,1085.00000,88.00000,0.00000,0.00000,0.00000,0.00000,0.00000,0.00000,0.00000,0.00000,0.00000,0.00000,0.00000,0.00000,0.00000,0.00000,0.00000,0.00000,0.00000,0.00000,0.00000)
-  #There is a recommended saturated fatty acid intake
-  #sfa = c(39.00400,9.55100,26.90400,8.20000,11.56000,7.36500,82.47500,12.94800,25.90000,8.97600,9.60000,19.62000,13.80800,49.30000,16.90000,6.20300,14.20000,15.65000,9.85900,10.30000,9.10000,18.80000),
-  #Polyunsaturated fatty acids
-  #pufa = c(11.14400,4.20400,18.23600,17.40000,13.48600,28.14200,1.70200,54.67700,51.90000,67.84900,69.90000,40.87000,10.52300,9.30000,32.00000,74.62300,41.70000,57.74000,3.79800,65.70000,63.30000,61.70000)
-  #*Data from Usda's SR28 database*
 )
 row.names(oils) <- c("Animal fat, bacon grease","Egg, yolk, raw, fresh","Margarine-like, butter-margarine blend, 80% fat, stick, without salt","Oil, almond","Oil, avocado","Oil, canola","Oil, coconut","Oil, corn, industrial and retail, all purpose salad or cooking","Oil, cottonseed, salad or cooking","Oil, flaxseed, cold pressed","Oil, grapeseed","Oil, oat","Oil, olive, salad or cooking","Oil, palm","Oil, peanut, salad or cooking","Oil, safflower, salad or cooking, linoleic, (over 70%)","Oil, sesame, salad or cooking","Oil, soybean, salad or cooking","Oil, sunflower, high oleic (70% and over)","Oil, sunflower, linoleic, (approx. 65%)","Oil, walnut","Oil, wheat germ")
-distance_matrix <- dist(oils, method = 'euclidean')
-hc <- hclust(distance_matrix, method = "average")
-ggdendrogram(hc, rotate = TRUE, size = 4, theme_dendro = FALSE)+ labs(title = "Hierarchical Clustering Graph - Edible Oils and Other")
+h.clus<-hclust(dist(oils),method="complete")
+#h.clus<-hclust(dist(oils),method = "single")
+#h.clus<-hclust(dist(oils),method = "average")
+#h.clus<-hclust(dist(oils),method = "ward")
+#h.clus<-hclust(dist(oils),method = "median")
+#h.clus<-hclust(dist(oils),method = "centroid")
+plot(h.clus, main = "Cluster Dendogram: Edible Oils", sub="", xlab = "", ylab = "")
